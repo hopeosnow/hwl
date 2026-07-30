@@ -1,0 +1,2657 @@
+[info]Time:[2026-06-28 20:41:37] hde start
+[info]Time:[2026-06-28 20:41:37] toolbar size:PyQt6.QtCore.QSize(640, 80)
+[info]Time:[2026-06-28 20:41:37] postion: (610, 1000)
+[error]Time:[2026-06-28 20:41:39] getwinlistfucntione errorFailed to retrieve the i3 or sway IPC socket path
+[error]Time:[2026-06-28 20:41:41] getwinlistfucntione errorFailed to retrieve the i3 or sway IPC socket path
+[error]Time:[2026-06-28 20:41:43] getwinlistfucntione errorFailed to retrieve the i3 or sway IPC socket path
+[error]Time:[2026-06-28 20:41:45] getwinlistfucntione errorFailed to retrieve the i3 or sway IPC socket path
+[error]Time:[2026-06-28 20:41:47] getwinlistfucntione errorFailed to retrieve the i3 or sway IPC socket path
+[info]Time:[2026-06-28 20:41:49] cleaning...
+[info]Time:[2026-07-12 21:41:16] hde start
+[info]Time:[2026-07-12 21:41:16] toolbar size:PyQt6.QtCore.QSize(640, 80)
+[info]Time:[2026-07-12 21:41:16] postion: (559, 798)
+[error]Time:[2026-07-12 21:41:17] getwinlist function error: [Errno 111] 连接被拒绝
+[error]Time:[2026-07-12 21:41:18] getwinlist function error: [Errno 111] 连接被拒绝
+[error]Time:[2026-07-12 21:41:18] getwinlist function error: [Errno 111] 连接被拒绝
+[error]Time:[2026-07-12 21:41:19] getwinlist function error: [Errno 111] 连接被拒绝
+[info]Time:[2026-07-12 21:41:20] cleaning...
+[info]Time:[2026-07-12 21:57:29] hde start
+[info]Time:[2026-07-12 21:57:29] toolbar size:PyQt6.QtCore.QSize(640, 80)
+[info]Time:[2026-07-12 21:57:29] postion: (559, 798)
+[error]Time:[2026-07-12 21:57:29] getwinlist function error: [Errno 111] 连接被拒绝
+[error]Time:[2026-07-12 21:57:30] getwinlist function error: [Errno 111] 连接被拒绝
+[error]Time:[2026-07-12 21:57:31] getwinlist function error: [Errno 111] 连接被拒绝
+[error]Time:[2026-07-12 21:57:31] getwinlist function error: [Errno 111] 连接被拒绝
+[error]Time:[2026-07-12 21:57:32] getwinlist function error: [Errno 111] 连接被拒绝
+[info]Time:[2026-07-12 21:57:33] cleaning...
+[info]Time:[2026-07-13 21:58:26] hde start
+[info]Time:[2026-07-13 21:58:26] toolbar size:PyQt6.QtCore.QSize(640, 80)
+[info]Time:[2026-07-13 21:58:26] postion: (238, 690)
+[info]Time:[2026-07-13 21:58:27] find 3 windows from hwl
+[info]Time:[2026-07-13 21:58:27] windows: foot -> foot
+[info]Time:[2026-07-13 21:58:28] find 3 windows from hwl
+[info]Time:[2026-07-13 21:58:28] windows: foot -> foot
+[info]Time:[2026-07-13 21:58:28] find 3 windows from hwl
+[info]Time:[2026-07-13 21:58:28] windows: foot -> foot
+[info]Time:[2026-07-13 21:58:29] find 3 windows from hwl
+[info]Time:[2026-07-13 21:58:29] windows: foot -> foot
+[info]Time:[2026-07-13 21:58:29] find 3 windows from hwl
+[info]Time:[2026-07-13 21:58:30] find 3 windows from hwl
+[info]Time:[2026-07-13 21:58:30] windows: foot -> foot
+[info]Time:[2026-07-13 21:58:30] find 3 windows from hwl
+[info]Time:[2026-07-13 21:58:30] windows: foot -> foot
+[info]Time:[2026-07-13 21:58:31] find 3 windows from hwl
+[info]Time:[2026-07-13 21:58:31] windows: foot -> foot
+[info]Time:[2026-07-13 21:58:32] find 3 windows from hwl
+[info]Time:[2026-07-13 21:58:32] windows: foot -> foot
+[info]Time:[2026-07-13 21:58:32] find 3 windows from hwl
+[info]Time:[2026-07-13 21:58:32] windows: foot -> foot
+[info]Time:[2026-07-13 21:58:33] find 3 windows from hwl
+[info]Time:[2026-07-13 21:58:33] windows: foot -> foot
+[info]Time:[2026-07-13 21:58:33] find 3 windows from hwl
+[info]Time:[2026-07-13 21:58:33] windows: foot -> foot
+[info]Time:[2026-07-13 21:58:34] find 3 windows from hwl
+[info]Time:[2026-07-13 21:58:34] windows: foot -> foot
+[info]Time:[2026-07-13 21:58:35] find 3 windows from hwl
+[info]Time:[2026-07-13 21:58:35] windows: foot -> foot
+[info]Time:[2026-07-13 21:58:35] find 3 windows from hwl
+[info]Time:[2026-07-13 21:58:35] windows: foot -> foot
+[info]Time:[2026-07-13 21:58:36] find 3 windows from hwl
+[info]Time:[2026-07-13 21:58:36] windows: foot -> foot
+[info]Time:[2026-07-13 21:58:37] find 3 windows from hwl
+[info]Time:[2026-07-13 21:58:37] windows: foot -> foot
+[info]Time:[2026-07-13 21:58:37] find 3 windows from hwl
+[info]Time:[2026-07-13 21:58:37] windows: foot -> foot
+[info]Time:[2026-07-13 21:58:38] find 3 windows from hwl
+[info]Time:[2026-07-13 21:58:38] windows: foot -> foot
+[info]Time:[2026-07-13 21:58:39] find 3 windows from hwl
+[info]Time:[2026-07-13 21:58:39] windows: foot -> foot
+[info]Time:[2026-07-13 21:58:39] find 3 windows from hwl
+[info]Time:[2026-07-13 21:58:39] windows: foot -> foot
+[info]Time:[2026-07-13 21:58:40] find 3 windows from hwl
+[info]Time:[2026-07-13 21:58:40] windows: foot -> foot
+[info]Time:[2026-07-13 21:58:41] find 3 windows from hwl
+[info]Time:[2026-07-13 21:58:41] windows: foot -> foot
+[info]Time:[2026-07-13 21:58:41] find 3 windows from hwl
+[info]Time:[2026-07-13 21:58:41] windows: foot -> foot
+[info]Time:[2026-07-13 21:58:42] find 3 windows from hwl
+[info]Time:[2026-07-13 21:58:42] windows: foot -> foot
+[info]Time:[2026-07-13 21:58:43] find 3 windows from hwl
+[info]Time:[2026-07-13 21:58:43] windows: foot -> foot
+[info]Time:[2026-07-13 21:58:43] find 3 windows from hwl
+[info]Time:[2026-07-13 21:58:43] windows: foot -> foot
+[info]Time:[2026-07-13 21:58:44] find 3 windows from hwl
+[info]Time:[2026-07-13 21:58:44] windows: foot -> foot
+[info]Time:[2026-07-13 21:58:45] find 3 windows from hwl
+[info]Time:[2026-07-13 21:58:45] windows: foot -> foot
+[info]Time:[2026-07-13 21:58:45] find 3 windows from hwl
+[info]Time:[2026-07-13 21:58:45] windows: foot -> foot
+[info]Time:[2026-07-13 21:58:46] find 3 windows from hwl
+[info]Time:[2026-07-13 21:58:46] windows: foot -> foot
+[info]Time:[2026-07-13 21:58:46] find 3 windows from hwl
+[info]Time:[2026-07-13 21:58:46] windows: foot -> foot
+[info]Time:[2026-07-13 21:58:47] find 3 windows from hwl
+[info]Time:[2026-07-13 21:58:47] windows: foot -> foot
+[info]Time:[2026-07-13 21:58:48] find 3 windows from hwl
+[info]Time:[2026-07-13 21:58:48] windows: foot -> foot
+[info]Time:[2026-07-13 21:58:48] find 3 windows from hwl
+[info]Time:[2026-07-13 21:58:48] windows: foot -> foot
+[info]Time:[2026-07-13 21:58:49] find 3 windows from hwl
+[info]Time:[2026-07-13 21:58:49] windows: foot -> foot
+[info]Time:[2026-07-13 21:58:50] find 3 windows from hwl
+[info]Time:[2026-07-13 21:58:50] windows: foot -> foot
+[info]Time:[2026-07-13 21:58:50] find 3 windows from hwl
+[info]Time:[2026-07-13 21:58:50] windows: foot -> foot
+[info]Time:[2026-07-13 21:58:51] find 3 windows from hwl
+[info]Time:[2026-07-13 21:58:51] windows: foot -> foot
+[info]Time:[2026-07-13 21:58:52] find 3 windows from hwl
+[info]Time:[2026-07-13 21:58:52] windows: foot -> foot
+[info]Time:[2026-07-13 21:58:52] find 3 windows from hwl
+[info]Time:[2026-07-13 21:58:52] windows: foot -> foot
+[info]Time:[2026-07-13 21:58:53] find 3 windows from hwl
+[info]Time:[2026-07-13 21:58:53] windows: foot -> foot
+[info]Time:[2026-07-13 21:58:54] find 3 windows from hwl
+[info]Time:[2026-07-13 21:58:54] windows: foot -> foot
+[info]Time:[2026-07-13 21:58:54] find 3 windows from hwl
+[info]Time:[2026-07-13 21:58:54] windows: foot -> foot
+[info]Time:[2026-07-13 21:58:54] find 3 windows from hwl
+[info]Time:[2026-07-13 21:58:55] find 3 windows from hwl
+[info]Time:[2026-07-13 21:58:55] windows: foot -> foot
+[info]Time:[2026-07-13 21:58:56] find 3 windows from hwl
+[info]Time:[2026-07-13 21:58:56] windows: foot -> foot
+[info]Time:[2026-07-13 21:58:56] find 3 windows from hwl
+[info]Time:[2026-07-13 21:58:56] windows: foot -> foot
+[info]Time:[2026-07-13 21:58:57] cleaning...
+[info]Time:[2026-07-13 21:59:08] hde start
+[info]Time:[2026-07-13 21:59:08] toolbar size:PyQt6.QtCore.QSize(640, 80)
+[info]Time:[2026-07-13 21:59:08] postion: (238, 690)
+[info]Time:[2026-07-13 21:59:09] find 3 windows from hwl
+[info]Time:[2026-07-13 21:59:09] windows: foot -> foot
+[info]Time:[2026-07-13 21:59:09] find 3 windows from hwl
+[info]Time:[2026-07-13 21:59:09] windows: foot -> foot
+[info]Time:[2026-07-13 21:59:10] find 3 windows from hwl
+[info]Time:[2026-07-13 21:59:10] windows: foot -> foot
+[info]Time:[2026-07-13 21:59:11] find 3 windows from hwl
+[info]Time:[2026-07-13 21:59:11] windows: foot -> foot
+[info]Time:[2026-07-13 21:59:11] find 3 windows from hwl
+[info]Time:[2026-07-13 21:59:11] find 3 windows from hwl
+[info]Time:[2026-07-13 21:59:11] windows: foot -> foot
+[info]Time:[2026-07-13 21:59:12] find 3 windows from hwl
+[info]Time:[2026-07-13 21:59:12] windows: foot -> foot
+[info]Time:[2026-07-13 21:59:13] find 3 windows from hwl
+[info]Time:[2026-07-13 21:59:13] windows: foot -> foot
+[info]Time:[2026-07-13 21:59:13] find 3 windows from hwl
+[info]Time:[2026-07-13 21:59:13] windows: foot -> foot
+[info]Time:[2026-07-13 21:59:14] find 3 windows from hwl
+[info]Time:[2026-07-13 21:59:14] windows: foot -> foot
+[info]Time:[2026-07-13 21:59:15] find 3 windows from hwl
+[info]Time:[2026-07-13 21:59:15] windows: foot -> foot
+[info]Time:[2026-07-13 21:59:15] find 3 windows from hwl
+[info]Time:[2026-07-13 21:59:15] windows: foot -> foot
+[info]Time:[2026-07-13 21:59:16] find 3 windows from hwl
+[info]Time:[2026-07-13 21:59:16] windows: foot -> foot
+[info]Time:[2026-07-13 21:59:17] find 3 windows from hwl
+[info]Time:[2026-07-13 21:59:17] windows: foot -> foot
+[info]Time:[2026-07-13 21:59:17] find 3 windows from hwl
+[info]Time:[2026-07-13 21:59:17] windows: foot -> foot
+[info]Time:[2026-07-13 21:59:18] find 3 windows from hwl
+[info]Time:[2026-07-13 21:59:18] windows: foot -> foot
+[info]Time:[2026-07-13 21:59:19] cleaning...
+[info]Time:[2026-07-13 22:09:46] hde start
+[info]Time:[2026-07-13 22:09:46] toolbar size:PyQt6.QtCore.QSize(640, 80)
+[info]Time:[2026-07-13 22:09:46] postion: (238, 690)
+[info]Time:[2026-07-13 22:09:46] find 3 windows from hwl
+[info]Time:[2026-07-13 22:09:46] windows: foot -> foot
+[info]Time:[2026-07-13 22:09:47] find 3 windows from hwl
+[info]Time:[2026-07-13 22:09:47] windows: foot -> foot
+[info]Time:[2026-07-13 22:09:47] find 3 windows from hwl
+[info]Time:[2026-07-13 22:09:48] find 3 windows from hwl
+[info]Time:[2026-07-13 22:09:48] windows: foot -> foot
+[info]Time:[2026-07-13 22:09:48] find 3 windows from hwl
+[info]Time:[2026-07-13 22:09:48] windows: foot -> foot
+[info]Time:[2026-07-13 22:09:49] find 3 windows from hwl
+[info]Time:[2026-07-13 22:09:49] windows: foot -> foot
+[info]Time:[2026-07-13 22:09:50] find 3 windows from hwl
+[info]Time:[2026-07-13 22:09:50] windows: foot -> foot
+[info]Time:[2026-07-13 22:09:50] find 3 windows from hwl
+[info]Time:[2026-07-13 22:09:50] windows: foot -> foot
+[info]Time:[2026-07-13 22:09:51] find 3 windows from hwl
+[info]Time:[2026-07-13 22:09:51] windows: foot -> foot
+[info]Time:[2026-07-13 22:09:52] cleaning...
+[info]Time:[2026-07-13 22:10:21] hde start
+[info]Time:[2026-07-13 22:10:21] toolbar size:PyQt6.QtCore.QSize(640, 80)
+[info]Time:[2026-07-13 22:10:21] postion: (238, 690)
+[info]Time:[2026-07-13 22:10:21] find 3 windows from hwl
+[info]Time:[2026-07-13 22:10:21] windows: foot -> foot
+[info]Time:[2026-07-13 22:10:22] find 3 windows from hwl
+[info]Time:[2026-07-13 22:10:22] windows: foot -> foot
+[info]Time:[2026-07-13 22:10:23] find 3 windows from hwl
+[info]Time:[2026-07-13 22:10:23] windows: foot -> foot
+[info]Time:[2026-07-13 22:10:23] find 3 windows from hwl
+[info]Time:[2026-07-13 22:10:23] find 3 windows from hwl
+[info]Time:[2026-07-13 22:10:23] windows: foot -> foot
+[info]Time:[2026-07-13 22:10:24] find 3 windows from hwl
+[info]Time:[2026-07-13 22:10:24] windows: foot -> foot
+[info]Time:[2026-07-13 22:10:25] find 3 windows from hwl
+[info]Time:[2026-07-13 22:10:25] windows: foot -> foot
+[info]Time:[2026-07-13 22:10:25] cleaning...
+[info]Time:[2026-07-13 22:10:41] hde start
+[info]Time:[2026-07-13 22:10:41] toolbar size:PyQt6.QtCore.QSize(640, 80)
+[info]Time:[2026-07-13 22:10:41] postion: (238, 690)
+[info]Time:[2026-07-13 22:10:41] find 3 windows from hwl
+[info]Time:[2026-07-13 22:10:41] windows: foot -> foot
+[info]Time:[2026-07-13 22:10:42] find 3 windows from hwl
+[info]Time:[2026-07-13 22:10:42] windows: foot -> foot
+[info]Time:[2026-07-13 22:10:42] find 3 windows from hwl
+[info]Time:[2026-07-13 22:10:43] find 3 windows from hwl
+[info]Time:[2026-07-13 22:10:43] windows: foot -> foot
+[info]Time:[2026-07-13 22:10:43] find 3 windows from hwl
+[info]Time:[2026-07-13 22:10:43] windows: foot -> foot
+[info]Time:[2026-07-13 22:10:44] find 3 windows from hwl
+[info]Time:[2026-07-13 22:10:44] windows: foot -> foot
+[info]Time:[2026-07-13 22:10:44] find 3 windows from hwl
+[info]Time:[2026-07-13 22:10:44] windows: foot -> foot
+[info]Time:[2026-07-13 22:10:45] find 3 windows from hwl
+[info]Time:[2026-07-13 22:10:45] windows: foot -> foot
+[info]Time:[2026-07-13 22:10:46] find 3 windows from hwl
+[info]Time:[2026-07-13 22:10:46] windows: foot -> foot
+[info]Time:[2026-07-13 22:10:46] find 3 windows from hwl
+[info]Time:[2026-07-13 22:10:46] windows: foot -> foot
+[info]Time:[2026-07-13 22:10:47] find 3 windows from hwl
+[info]Time:[2026-07-13 22:10:47] windows: foot -> foot
+[info]Time:[2026-07-13 22:10:48] find 3 windows from hwl
+[info]Time:[2026-07-13 22:10:48] windows: foot -> foot
+[info]Time:[2026-07-13 22:10:48] find 3 windows from hwl
+[info]Time:[2026-07-13 22:10:48] windows: foot -> foot
+[info]Time:[2026-07-13 22:10:49] cleaning...
+[info]Time:[2026-07-13 22:10:55] hde start
+[info]Time:[2026-07-13 22:10:55] toolbar size:PyQt6.QtCore.QSize(640, 80)
+[info]Time:[2026-07-13 22:10:55] postion: (238, 690)
+[info]Time:[2026-07-13 22:10:55] find 3 windows from hwl
+[info]Time:[2026-07-13 22:10:55] windows: foot -> foot
+[info]Time:[2026-07-13 22:10:56] find 3 windows from hwl
+[info]Time:[2026-07-13 22:10:56] windows: foot -> foot
+[info]Time:[2026-07-13 22:10:57] find 3 windows from hwl
+[info]Time:[2026-07-13 22:10:57] windows: foot -> foot
+[info]Time:[2026-07-13 22:10:57] find 3 windows from hwl
+[info]Time:[2026-07-13 22:10:57] find 3 windows from hwl
+[info]Time:[2026-07-13 22:10:57] windows: foot -> foot
+[info]Time:[2026-07-13 22:10:58] find 3 windows from hwl
+[info]Time:[2026-07-13 22:10:58] windows: foot -> foot
+[info]Time:[2026-07-13 22:10:59] find 3 windows from hwl
+[info]Time:[2026-07-13 22:10:59] windows: foot -> foot
+[info]Time:[2026-07-13 22:10:59] find 3 windows from hwl
+[info]Time:[2026-07-13 22:10:59] windows: foot -> foot
+[info]Time:[2026-07-13 22:11:00] cleaning...
+[info]Time:[2026-07-13 22:11:14] hde start
+[info]Time:[2026-07-13 22:11:14] toolbar size:PyQt6.QtCore.QSize(640, 80)
+[info]Time:[2026-07-13 22:11:14] postion: (238, 690)
+[info]Time:[2026-07-13 22:11:15] find 3 windows from hwl
+[info]Time:[2026-07-13 22:11:15] windows: foot -> foot
+[info]Time:[2026-07-13 22:11:15] find 3 windows from hwl
+[info]Time:[2026-07-13 22:11:15] windows: foot -> foot
+[info]Time:[2026-07-13 22:11:16] find 3 windows from hwl
+[info]Time:[2026-07-13 22:11:16] windows: foot -> foot
+[info]Time:[2026-07-13 22:11:16] find 3 windows from hwl
+[info]Time:[2026-07-13 22:11:17] find 3 windows from hwl
+[info]Time:[2026-07-13 22:11:17] windows: foot -> foot
+[info]Time:[2026-07-13 22:11:17] find 3 windows from hwl
+[info]Time:[2026-07-13 22:11:17] windows: foot -> foot
+[info]Time:[2026-07-13 22:11:18] cleaning...
+[info]Time:[2026-07-13 22:11:35] hde start
+[info]Time:[2026-07-13 22:11:35] toolbar size:PyQt6.QtCore.QSize(640, 80)
+[info]Time:[2026-07-13 22:11:35] postion: (238, 690)
+[info]Time:[2026-07-13 22:11:35] find 3 windows from hwl
+[info]Time:[2026-07-13 22:11:35] windows: foot -> foot
+[info]Time:[2026-07-13 22:11:36] find 3 windows from hwl
+[info]Time:[2026-07-13 22:11:36] windows: foot -> foot
+[info]Time:[2026-07-13 22:11:37] find 3 windows from hwl
+[info]Time:[2026-07-13 22:11:37] windows: foot -> foot
+[info]Time:[2026-07-13 22:11:37] find 3 windows from hwl
+[info]Time:[2026-07-13 22:11:37] find 3 windows from hwl
+[info]Time:[2026-07-13 22:11:37] windows: foot -> foot
+[info]Time:[2026-07-13 22:11:38] find 3 windows from hwl
+[info]Time:[2026-07-13 22:11:38] windows: foot -> foot
+[info]Time:[2026-07-13 22:11:39] find 3 windows from hwl
+[info]Time:[2026-07-13 22:11:39] windows: foot -> foot
+[info]Time:[2026-07-13 22:11:39] cleaning...
+[info]Time:[2026-07-13 22:12:09] hde start
+[info]Time:[2026-07-13 22:12:09] toolbar size:PyQt6.QtCore.QSize(640, 80)
+[info]Time:[2026-07-13 22:12:09] postion: (238, 690)
+[info]Time:[2026-07-13 22:12:10] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:10] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:11] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:11] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:11] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:11] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:11] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:12] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:12] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:12] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:12] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:13] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:13] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:14] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:14] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:14] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:14] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:15] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:15] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:15] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:16] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:16] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:16] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:16] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:17] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:17] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:18] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:18] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:18] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:18] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:19] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:19] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:20] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:20] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:20] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:20] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:21] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:21] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:22] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:22] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:22] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:22] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:23] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:23] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:24] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:24] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:24] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:24] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:25] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:25] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:25] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:25] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:26] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:26] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:27] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:27] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:27] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:27] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:28] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:28] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:29] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:29] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:29] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:29] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:30] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:30] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:31] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:31] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:31] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:31] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:32] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:32] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:33] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:33] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:33] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:33] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:34] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:34] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:35] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:35] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:35] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:35] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:36] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:36] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:37] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:37] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:37] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:37] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:38] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:38] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:38] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:38] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:39] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:39] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:40] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:40] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:40] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:40] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:41] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:41] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:42] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:42] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:42] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:42] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:43] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:43] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:44] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:44] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:44] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:44] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:45] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:45] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:46] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:46] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:46] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:46] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:47] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:47] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:48] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:48] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:48] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:48] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:49] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:49] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:50] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:50] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:50] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:50] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:51] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:51] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:51] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:51] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:52] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:52] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:53] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:53] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:53] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:53] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:54] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:54] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:55] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:55] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:55] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:55] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:56] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:56] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:57] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:57] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:57] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:57] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:58] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:58] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:59] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:59] windows: foot -> foot
+[info]Time:[2026-07-13 22:12:59] find 3 windows from hwl
+[info]Time:[2026-07-13 22:12:59] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:00] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:00] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:01] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:01] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:01] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:01] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:02] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:02] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:03] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:03] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:03] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:03] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:04] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:04] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:04] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:04] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:05] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:05] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:06] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:06] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:06] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:06] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:07] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:07] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:08] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:08] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:08] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:08] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:09] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:09] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:10] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:10] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:10] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:10] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:11] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:11] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:12] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:12] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:12] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:12] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:13] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:13] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:14] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:14] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:14] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:14] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:15] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:15] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:16] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:16] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:16] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:16] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:17] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:17] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:17] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:17] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:18] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:18] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:19] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:19] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:19] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:19] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:20] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:20] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:21] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:21] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:21] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:21] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:22] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:22] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:23] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:23] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:23] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:23] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:24] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:24] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:25] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:25] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:25] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:25] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:26] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:26] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:27] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:27] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:27] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:27] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:28] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:28] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:29] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:29] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:29] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:29] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:30] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:30] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:30] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:30] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:31] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:31] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:32] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:32] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:32] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:32] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:33] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:33] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:34] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:34] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:34] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:34] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:35] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:35] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:36] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:36] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:36] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:36] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:37] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:37] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:38] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:38] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:38] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:38] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:39] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:39] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:40] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:40] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:40] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:40] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:41] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:41] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:42] cleaning...
+[info]Time:[2026-07-13 22:13:46] hde start
+[info]Time:[2026-07-13 22:13:46] toolbar size:PyQt6.QtCore.QSize(640, 80)
+[info]Time:[2026-07-13 22:13:46] postion: (238, 690)
+[info]Time:[2026-07-13 22:13:47] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:47] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:48] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:48] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:48] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:48] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:48] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:49] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:49] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:50] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:50] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:50] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:50] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:51] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:51] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:52] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:52] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:52] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:52] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:53] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:53] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:54] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:54] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:54] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:54] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:55] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:55] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:56] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:56] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:56] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:56] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:57] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:57] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:58] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:58] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:58] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:58] windows: foot -> foot
+[info]Time:[2026-07-13 22:13:59] find 3 windows from hwl
+[info]Time:[2026-07-13 22:13:59] windows: foot -> foot
+[info]Time:[2026-07-13 22:14:00] find 3 windows from hwl
+[info]Time:[2026-07-13 22:14:00] windows: foot -> foot
+[info]Time:[2026-07-13 22:14:00] cleaning...
+[info]Time:[2026-07-15 21:06:29] hde start
+[info]Time:[2026-07-15 21:06:29] toolbar size:PyQt6.QtCore.QSize(640, 80)
+[info]Time:[2026-07-15 21:06:29] postion: (240, 688)
+[info]Time:[2026-07-15 21:06:30] find 2 windows from hwl
+[info]Time:[2026-07-15 21:06:30] windows: foot -> foot
+[info]Time:[2026-07-15 21:06:31] find 2 windows from hwl
+[info]Time:[2026-07-15 21:06:31] windows: foot -> foot
+[info]Time:[2026-07-15 21:06:31] find 2 windows from hwl
+[info]Time:[2026-07-15 21:06:31] windows: foot -> foot
+[info]Time:[2026-07-15 21:06:32] find 2 windows from hwl
+[info]Time:[2026-07-15 21:06:32] windows: foot -> foot
+[info]Time:[2026-07-15 21:06:33] find 2 windows from hwl
+[info]Time:[2026-07-15 21:06:33] windows: foot -> foot
+[info]Time:[2026-07-15 21:06:33] find 2 windows from hwl
+[info]Time:[2026-07-15 21:06:33] windows: foot -> foot
+[info]Time:[2026-07-15 21:06:34] find 2 windows from hwl
+[info]Time:[2026-07-15 21:06:34] windows: foot -> foot
+[info]Time:[2026-07-15 21:06:35] find 2 windows from hwl
+[info]Time:[2026-07-15 21:06:35] windows: foot -> foot
+[info]Time:[2026-07-15 21:06:35] find 2 windows from hwl
+[info]Time:[2026-07-15 21:06:35] windows: foot -> foot
+[info]Time:[2026-07-15 21:06:36] find 2 windows from hwl
+[info]Time:[2026-07-15 21:06:36] windows: foot -> foot
+[info]Time:[2026-07-15 21:06:36] find 2 windows from hwl
+[info]Time:[2026-07-15 21:06:36] windows: foot -> foot
+[info]Time:[2026-07-15 21:06:37] find 2 windows from hwl
+[info]Time:[2026-07-15 21:06:37] windows: foot -> foot
+[info]Time:[2026-07-15 21:06:38] find 2 windows from hwl
+[info]Time:[2026-07-15 21:06:38] windows: foot -> foot
+[info]Time:[2026-07-15 21:06:38] find 2 windows from hwl
+[info]Time:[2026-07-15 21:06:38] windows: foot -> foot
+[info]Time:[2026-07-15 21:06:39] toggle_maximize 94763961019040, reply=ok
+[info]Time:[2026-07-15 21:06:39] find 2 windows from hwl
+[info]Time:[2026-07-15 21:06:39] windows: foot -> foot
+[info]Time:[2026-07-15 21:06:40] find 2 windows from hwl
+[info]Time:[2026-07-15 21:06:40] windows: foot -> foot
+[info]Time:[2026-07-15 21:06:40] find 2 windows from hwl
+[info]Time:[2026-07-15 21:06:40] windows: foot -> foot
+[info]Time:[2026-07-15 21:06:41] find 2 windows from hwl
+[info]Time:[2026-07-15 21:06:41] windows: foot -> foot
+[info]Time:[2026-07-15 21:06:42] toggle_maximize 94763961019040, reply=ok
+[info]Time:[2026-07-15 21:06:42] find 2 windows from hwl
+[info]Time:[2026-07-15 21:06:42] windows: foot -> foot
+[info]Time:[2026-07-15 21:06:42] find 2 windows from hwl
+[info]Time:[2026-07-15 21:06:42] windows: foot -> foot
+[info]Time:[2026-07-15 21:06:43] find 2 windows from hwl
+[info]Time:[2026-07-15 21:06:43] windows: foot -> foot
+[info]Time:[2026-07-15 21:06:44] find 2 windows from hwl
+[info]Time:[2026-07-15 21:06:44] windows: foot -> foot
+[info]Time:[2026-07-15 21:06:44] find 2 windows from hwl
+[info]Time:[2026-07-15 21:06:44] windows: foot -> foot
+[info]Time:[2026-07-15 21:06:45] find 2 windows from hwl
+[info]Time:[2026-07-15 21:06:45] windows: foot -> foot
+[info]Time:[2026-07-15 21:06:46] find 2 windows from hwl
+[info]Time:[2026-07-15 21:06:46] windows: foot -> foot
+[info]Time:[2026-07-15 21:06:46] find 2 windows from hwl
+[info]Time:[2026-07-15 21:06:46] windows: foot -> foot
+[info]Time:[2026-07-15 21:06:47] find 2 windows from hwl
+[info]Time:[2026-07-15 21:06:47] windows: foot -> foot
+[info]Time:[2026-07-15 21:06:48] find 2 windows from hwl
+[info]Time:[2026-07-15 21:06:48] windows: foot -> foot
+[info]Time:[2026-07-15 21:06:48] find 2 windows from hwl
+[info]Time:[2026-07-15 21:06:48] windows: foot -> foot
+[info]Time:[2026-07-15 21:06:49] find 2 windows from hwl
+[info]Time:[2026-07-15 21:06:49] windows: foot -> foot
+[info]Time:[2026-07-15 21:06:49] find 2 windows from hwl
+[info]Time:[2026-07-15 21:06:50] windows: foot -> foot
+[info]Time:[2026-07-15 21:06:50] find 2 windows from hwl
+[info]Time:[2026-07-15 21:06:50] windows: foot -> foot
+[info]Time:[2026-07-15 21:06:51] find 2 windows from hwl
+[info]Time:[2026-07-15 21:06:51] windows: foot -> foot
+[info]Time:[2026-07-15 21:06:51] find 2 windows from hwl
+[info]Time:[2026-07-15 21:06:51] windows: foot -> foot
+[info]Time:[2026-07-15 21:06:52] find 2 windows from hwl
+[info]Time:[2026-07-15 21:06:52] windows: foot -> foot
+[info]Time:[2026-07-15 21:06:53] find 2 windows from hwl
+[info]Time:[2026-07-15 21:06:53] windows: foot -> foot
+[info]Time:[2026-07-15 21:06:53] find 2 windows from hwl
+[info]Time:[2026-07-15 21:06:53] windows: foot -> foot
+[info]Time:[2026-07-15 21:06:54] find 2 windows from hwl
+[info]Time:[2026-07-15 21:06:54] windows: foot -> foot
+[info]Time:[2026-07-15 21:06:55] find 2 windows from hwl
+[info]Time:[2026-07-15 21:06:55] windows: foot -> foot
+[info]Time:[2026-07-15 21:06:55] find 2 windows from hwl
+[info]Time:[2026-07-15 21:06:55] windows: foot -> foot
+[info]Time:[2026-07-15 21:06:56] find 2 windows from hwl
+[info]Time:[2026-07-15 21:06:56] windows: foot -> foot
+[info]Time:[2026-07-15 21:06:57] find 2 windows from hwl
+[info]Time:[2026-07-15 21:06:57] windows: foot -> foot
+[info]Time:[2026-07-15 21:06:57] find 2 windows from hwl
+[info]Time:[2026-07-15 21:06:57] windows: foot -> foot
+[info]Time:[2026-07-15 21:06:58] find 2 windows from hwl
+[info]Time:[2026-07-15 21:06:58] windows: foot -> foot
+[info]Time:[2026-07-15 21:06:59] find 2 windows from hwl
+[info]Time:[2026-07-15 21:06:59] windows: foot -> foot
+[info]Time:[2026-07-15 21:06:59] find 2 windows from hwl
+[info]Time:[2026-07-15 21:06:59] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:00] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:00] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:01] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:01] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:01] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:01] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:02] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:02] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:03] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:03] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:03] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:03] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:04] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:04] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:04] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:04] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:05] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:05] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:06] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:06] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:06] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:06] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:07] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:07] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:08] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:08] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:08] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:08] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:09] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:09] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:10] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:10] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:10] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:10] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:11] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:11] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:12] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:12] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:12] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:12] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:13] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:13] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:14] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:14] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:14] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:14] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:15] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:15] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:16] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:16] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:16] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:16] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:17] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:17] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:17] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:17] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:18] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:18] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:19] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:19] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:19] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:19] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:20] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:20] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:21] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:21] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:21] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:21] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:22] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:22] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:23] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:23] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:23] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:23] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:24] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:24] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:25] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:25] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:25] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:25] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:26] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:26] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:27] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:27] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:27] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:27] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:28] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:28] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:28] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:29] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:29] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:29] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:30] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:30] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:30] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:30] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:31] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:31] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:32] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:32] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:32] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:32] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:33] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:33] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:34] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:34] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:34] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:34] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:35] cleaning...
+[info]Time:[2026-07-15 21:07:42] hde start
+[info]Time:[2026-07-15 21:07:42] toolbar size:PyQt6.QtCore.QSize(640, 80)
+[info]Time:[2026-07-15 21:07:42] postion: (240, 688)
+[info]Time:[2026-07-15 21:07:42] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:42] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:43] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:43] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:43] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:44] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:44] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:44] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:45] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:45] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:45] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:45] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:46] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:46] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:47] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:47] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:47] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:47] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:48] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:48] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:49] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:49] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:49] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:49] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:50] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:50] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:51] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:51] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:51] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:51] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:52] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:52] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:53] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:53] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:53] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:53] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:54] toggle_maximize 94763961019040, reply=ok
+[info]Time:[2026-07-15 21:07:54] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:54] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:54] focus 94763961019040, reply=ok
+[info]Time:[2026-07-15 21:07:55] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:55] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:55] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:55] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:56] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:56] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:57] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:57] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:57] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:57] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:58] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:58] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:58] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:58] windows: foot -> foot
+[info]Time:[2026-07-15 21:07:59] find 2 windows from hwl
+[info]Time:[2026-07-15 21:07:59] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:00] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:00] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:00] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:00] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:01] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:01] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:02] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:02] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:02] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:02] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:03] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:03] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:04] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:04] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:04] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:04] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:05] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:05] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:06] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:06] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:06] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:06] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:07] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:07] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:08] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:08] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:08] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:08] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:09] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:09] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:09] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:09] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:10] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:10] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:11] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:11] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:11] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:11] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:12] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:12] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:13] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:13] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:13] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:13] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:14] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:14] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:15] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:15] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:15] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:15] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:16] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:16] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:17] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:17] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:17] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:17] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:18] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:18] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:19] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:19] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:19] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:19] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:20] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:20] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:21] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:21] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:21] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:21] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:22] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:22] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:22] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:23] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:23] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:23] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:24] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:24] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:24] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:24] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:25] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:25] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:26] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:26] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:26] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:26] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:27] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:27] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:28] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:28] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:28] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:28] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:29] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:29] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:30] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:30] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:30] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:30] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:31] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:31] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:32] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:32] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:32] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:32] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:33] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:33] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:34] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:34] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:34] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:34] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:35] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:35] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:35] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:36] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:36] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:36] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:37] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:37] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:37] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:37] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:38] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:38] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:39] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:39] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:39] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:39] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:40] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:40] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:41] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:41] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:41] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:41] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:42] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:42] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:43] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:43] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:43] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:43] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:44] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:44] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:45] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:45] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:45] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:45] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:46] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:46] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:47] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:47] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:47] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:47] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:48] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:48] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:49] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:49] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:49] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:49] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:50] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:50] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:50] cleaning...
+[info]Time:[2026-07-15 21:08:55] hde start
+[info]Time:[2026-07-15 21:08:55] toolbar size:PyQt6.QtCore.QSize(640, 80)
+[info]Time:[2026-07-15 21:08:55] postion: (240, 688)
+[info]Time:[2026-07-15 21:08:56] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:56] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:56] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:56] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:57] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:57] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:58] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:58] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:58] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:58] windows: foot -> foot
+[info]Time:[2026-07-15 21:08:59] find 2 windows from hwl
+[info]Time:[2026-07-15 21:08:59] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:00] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:00] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:00] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:00] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:01] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:01] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:02] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:02] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:02] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:02] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:03] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:03] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:03] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:03] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:04] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:04] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:05] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:05] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:05] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:05] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:06] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:06] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:07] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:07] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:07] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:07] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:08] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:08] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:09] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:09] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:09] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:09] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:10] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:10] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:11] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:11] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:11] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:11] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:12] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:12] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:13] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:13] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:13] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:13] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:14] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:14] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:15] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:15] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:15] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:15] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:16] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:16] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:16] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:16] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:17] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:17] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:18] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:18] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:18] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:18] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:19] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:19] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:20] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:20] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:20] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:20] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:21] cleaning...
+[info]Time:[2026-07-15 21:09:43] hde start
+[info]Time:[2026-07-15 21:09:43] toolbar size:PyQt6.QtCore.QSize(640, 80)
+[info]Time:[2026-07-15 21:09:43] postion: (240, 688)
+[info]Time:[2026-07-15 21:09:44] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:44] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:45] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:45] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:45] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:45] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:46] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:46] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:47] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:47] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:47] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:47] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:48] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:48] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:49] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:49] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:49] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:49] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:50] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:50] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:50] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:50] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:51] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:51] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:52] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:52] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:52] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:52] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:53] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:53] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:54] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:54] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:54] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:54] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:55] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:55] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:56] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:56] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:56] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:56] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:57] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:57] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:58] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:58] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:58] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:58] windows: foot -> foot
+[info]Time:[2026-07-15 21:09:59] find 2 windows from hwl
+[info]Time:[2026-07-15 21:09:59] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:00] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:00] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:00] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:00] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:01] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:01] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:02] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:02] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:02] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:02] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:03] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:03] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:03] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:04] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:04] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:04] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:05] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:05] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:05] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:05] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:06] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:06] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:07] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:07] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:07] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:07] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:08] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:08] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:09] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:09] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:09] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:09] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:10] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:10] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:11] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:11] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:11] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:11] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:12] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:12] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:13] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:13] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:13] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:13] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:14] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:14] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:15] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:15] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:15] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:15] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:16] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:16] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:16] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:17] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:17] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:17] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:18] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:18] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:18] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:18] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:19] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:19] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:20] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:20] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:20] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:20] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:21] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:21] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:22] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:22] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:22] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:22] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:23] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:23] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:24] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:24] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:24] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:24] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:25] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:25] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:26] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:26] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:26] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:26] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:27] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:27] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:28] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:28] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:28] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:28] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:29] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:29] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:29] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:29] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:30] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:30] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:31] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:31] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:31] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:31] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:32] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:32] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:33] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:33] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:33] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:33] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:34] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:34] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:35] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:35] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:35] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:35] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:36] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:36] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:37] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:37] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:37] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:37] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:38] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:38] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:39] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:39] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:39] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:39] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:40] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:40] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:41] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:41] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:41] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:41] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:42] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:42] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:42] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:43] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:43] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:43] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:44] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:44] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:44] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:44] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:45] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:45] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:46] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:46] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:46] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:46] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:47] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:47] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:48] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:48] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:48] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:48] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:49] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:49] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:50] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:50] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:50] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:50] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:51] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:51] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:52] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:52] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:52] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:52] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:53] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:53] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:54] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:54] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:54] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:54] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:55] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:55] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:55] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:56] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:56] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:56] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:57] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:57] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:57] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:57] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:58] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:58] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:59] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:59] windows: foot -> foot
+[info]Time:[2026-07-15 21:10:59] find 2 windows from hwl
+[info]Time:[2026-07-15 21:10:59] windows: foot -> foot
+[info]Time:[2026-07-15 21:11:00] find 2 windows from hwl
+[info]Time:[2026-07-15 21:11:00] windows: foot -> foot
+[info]Time:[2026-07-15 21:11:01] find 2 windows from hwl
+[info]Time:[2026-07-15 21:11:01] windows: foot -> foot
+[info]Time:[2026-07-15 21:11:01] find 2 windows from hwl
+[info]Time:[2026-07-15 21:11:01] windows: foot -> foot
+[info]Time:[2026-07-15 21:11:02] find 2 windows from hwl
+[info]Time:[2026-07-15 21:11:02] windows: foot -> foot
+[info]Time:[2026-07-15 21:11:03] find 2 windows from hwl
+[info]Time:[2026-07-15 21:11:03] windows: foot -> foot
+[info]Time:[2026-07-15 21:11:03] find 2 windows from hwl
+[info]Time:[2026-07-15 21:11:03] windows: foot -> foot
+[info]Time:[2026-07-15 21:11:04] find 2 windows from hwl
+[info]Time:[2026-07-15 21:11:04] windows: foot -> foot
+[info]Time:[2026-07-15 21:11:05] find 2 windows from hwl
+[info]Time:[2026-07-15 21:11:05] windows: foot -> foot
+[info]Time:[2026-07-15 21:11:05] find 2 windows from hwl
+[info]Time:[2026-07-15 21:11:05] windows: foot -> foot
+[info]Time:[2026-07-15 21:11:06] find 2 windows from hwl
+[info]Time:[2026-07-15 21:11:06] windows: foot -> foot
+[info]Time:[2026-07-15 21:11:07] find 2 windows from hwl
+[info]Time:[2026-07-15 21:11:07] windows: foot -> foot
+[info]Time:[2026-07-15 21:11:07] find 2 windows from hwl
+[info]Time:[2026-07-15 21:11:07] windows: foot -> foot
+[info]Time:[2026-07-15 21:11:08] find 2 windows from hwl
+[info]Time:[2026-07-15 21:11:08] windows: foot -> foot
+[info]Time:[2026-07-15 21:11:08] find 2 windows from hwl
+[info]Time:[2026-07-15 21:11:09] windows: foot -> foot
+[info]Time:[2026-07-15 21:11:09] find 2 windows from hwl
+[info]Time:[2026-07-15 21:11:09] windows: foot -> foot
+[info]Time:[2026-07-15 21:11:10] find 2 windows from hwl
+[info]Time:[2026-07-15 21:11:10] windows: foot -> foot
+[info]Time:[2026-07-15 21:11:10] find 2 windows from hwl
+[info]Time:[2026-07-15 21:11:10] windows: foot -> foot
+[info]Time:[2026-07-15 21:11:11] cleaning...
+[info]Time:[2026-07-15 21:11:18] hde start
+[info]Time:[2026-07-15 21:11:18] toolbar size:PyQt6.QtCore.QSize(640, 80)
+[info]Time:[2026-07-15 21:11:18] postion: (240, 688)
+[info]Time:[2026-07-15 21:11:19] find 2 windows from hwl
+[info]Time:[2026-07-15 21:11:19] windows: foot -> foot
+[info]Time:[2026-07-15 21:11:19] find 2 windows from hwl
+[info]Time:[2026-07-15 21:11:19] windows: foot -> foot
+[info]Time:[2026-07-15 21:11:20] find 2 windows from hwl
+[info]Time:[2026-07-15 21:11:20] windows: foot -> foot
+[info]Time:[2026-07-15 21:11:20] find 2 windows from hwl
+[info]Time:[2026-07-15 21:11:20] windows: foot -> foot
+[info]Time:[2026-07-15 21:11:21] find 2 windows from hwl
+[info]Time:[2026-07-15 21:11:21] windows: foot -> foot
+[info]Time:[2026-07-15 21:11:22] find 2 windows from hwl
+[info]Time:[2026-07-15 21:11:22] windows: foot -> foot
+[info]Time:[2026-07-15 21:11:22] find 2 windows from hwl
+[info]Time:[2026-07-15 21:11:22] windows: foot -> foot
+[info]Time:[2026-07-15 21:11:23] find 2 windows from hwl
+[info]Time:[2026-07-15 21:11:23] windows: foot -> foot
+[info]Time:[2026-07-15 21:11:24] find 2 windows from hwl
+[info]Time:[2026-07-15 21:11:24] windows: foot -> foot
+[info]Time:[2026-07-15 21:11:24] find 2 windows from hwl
+[info]Time:[2026-07-15 21:11:24] windows: foot -> foot
+[info]Time:[2026-07-15 21:11:25] find 2 windows from hwl
+[info]Time:[2026-07-15 21:11:25] windows: foot -> foot
+[info]Time:[2026-07-15 21:11:26] find 2 windows from hwl
+[info]Time:[2026-07-15 21:11:26] windows: foot -> foot
+[info]Time:[2026-07-15 21:11:26] find 2 windows from hwl
+[info]Time:[2026-07-15 21:11:26] windows: foot -> foot
+[info]Time:[2026-07-15 21:11:27] find 2 windows from hwl
+[info]Time:[2026-07-15 21:11:27] windows: foot -> foot
+[info]Time:[2026-07-15 21:11:28] find 2 windows from hwl
+[info]Time:[2026-07-15 21:11:28] windows: foot -> foot
+[info]Time:[2026-07-15 21:11:28] cleaning...
+[info]Time:[2026-07-15 21:14:15] hde start
+[info]Time:[2026-07-15 21:14:15] toolbar size:PyQt6.QtCore.QSize(640, 80)
+[info]Time:[2026-07-15 21:14:15] postion: (240, 688)
+[info]Time:[2026-07-15 21:14:15] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:15] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:16] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:16] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:17] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:17] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:17] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:17] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:18] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:18] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:19] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:19] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:19] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:19] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:20] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:20] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:21] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:21] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:21] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:21] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:22] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:22] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:23] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:23] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:23] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:23] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:24] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:24] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:25] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:25] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:25] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:25] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:26] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:26] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:26] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:26] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:27] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:27] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:28] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:28] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:28] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:28] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:29] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:29] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:30] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:30] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:30] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:30] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:31] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:31] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:32] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:32] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:32] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:32] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:33] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:33] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:34] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:34] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:34] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:34] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:35] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:35] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:36] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:36] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:36] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:36] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:37] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:37] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:38] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:38] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:38] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:38] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:39] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:39] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:39] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:39] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:40] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:40] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:41] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:41] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:41] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:41] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:42] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:42] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:43] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:43] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:43] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:43] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:44] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:44] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:45] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:45] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:45] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:45] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:46] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:46] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:47] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:47] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:47] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:47] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:48] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:48] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:49] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:49] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:49] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:49] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:50] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:50] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:50] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:51] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:51] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:51] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:52] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:52] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:52] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:52] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:53] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:53] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:54] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:54] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:54] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:54] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:55] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:55] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:56] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:56] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:56] find 2 windows from hwl
+[info]Time:[2026-07-15 21:14:56] windows: foot -> foot
+[info]Time:[2026-07-15 21:14:57] cleaning...
+[info]Time:[2026-07-15 21:15:02] hde start
+[info]Time:[2026-07-15 21:15:02] toolbar size:PyQt6.QtCore.QSize(640, 80)
+[info]Time:[2026-07-15 21:15:02] postion: (240, 688)
+[info]Time:[2026-07-15 21:15:02] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:03] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:03] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:03] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:04] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:04] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:04] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:04] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:05] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:05] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:06] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:06] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:06] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:06] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:07] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:07] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:08] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:08] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:08] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:08] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:09] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:09] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:10] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:10] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:10] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:10] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:11] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:11] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:12] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:12] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:12] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:12] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:13] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:13] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:14] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:14] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:14] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:14] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:15] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:15] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:16] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:16] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:16] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:16] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:17] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:17] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:17] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:17] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:18] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:18] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:19] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:19] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:19] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:19] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:20] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:20] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:21] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:21] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:21] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:21] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:22] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:22] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:23] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:23] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:23] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:23] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:24] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:24] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:25] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:25] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:25] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:25] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:26] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:26] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:27] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:27] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:27] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:27] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:28] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:28] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:28] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:29] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:29] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:29] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:30] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:30] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:30] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:30] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:31] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:31] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:32] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:32] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:32] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:32] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:33] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:33] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:34] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:34] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:34] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:34] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:35] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:35] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:36] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:36] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:36] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:36] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:37] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:37] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:38] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:38] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:38] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:38] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:39] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:39] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:40] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:40] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:40] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:40] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:41] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:41] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:41] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:42] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:42] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:42] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:43] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:43] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:43] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:43] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:44] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:44] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:45] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:45] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:45] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:45] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:46] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:46] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:47] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:47] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:47] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:47] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:48] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:48] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:49] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:49] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:49] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:49] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:50] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:50] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:51] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:51] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:51] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:51] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:52] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:52] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:53] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:53] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:53] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:53] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:54] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:54] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:55] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:55] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:55] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:55] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:56] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:56] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:56] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:56] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:57] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:57] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:58] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:58] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:58] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:58] windows: foot -> foot
+[info]Time:[2026-07-15 21:15:59] find 2 windows from hwl
+[info]Time:[2026-07-15 21:15:59] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:00] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:00] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:00] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:00] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:01] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:01] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:02] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:02] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:02] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:02] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:03] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:03] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:04] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:04] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:04] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:04] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:05] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:05] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:06] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:06] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:06] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:06] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:07] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:07] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:08] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:08] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:08] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:08] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:09] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:09] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:09] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:09] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:10] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:10] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:11] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:11] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:11] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:11] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:12] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:12] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:13] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:13] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:13] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:13] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:14] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:14] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:15] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:15] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:15] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:15] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:16] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:16] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:17] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:17] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:17] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:17] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:18] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:18] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:19] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:19] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:19] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:19] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:20] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:20] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:20] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:21] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:21] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:21] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:22] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:22] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:22] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:22] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:23] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:23] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:24] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:24] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:24] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:24] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:25] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:25] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:26] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:26] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:26] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:26] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:27] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:27] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:28] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:28] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:28] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:28] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:29] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:29] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:30] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:30] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:30] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:30] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:31] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:31] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:32] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:32] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:32] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:32] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:33] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:33] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:33] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:34] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:34] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:34] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:35] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:35] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:35] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:35] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:36] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:36] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:37] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:37] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:37] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:37] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:38] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:38] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:39] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:39] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:39] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:39] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:40] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:40] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:41] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:41] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:41] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:41] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:42] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:42] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:43] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:43] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:43] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:43] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:44] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:44] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:45] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:45] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:45] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:45] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:46] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:46] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:47] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:47] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:47] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:47] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:48] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:48] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:48] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:48] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:49] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:49] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:50] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:50] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:50] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:50] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:51] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:51] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:52] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:52] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:52] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:52] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:53] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:53] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:54] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:54] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:54] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:54] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:55] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:55] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:56] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:56] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:56] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:56] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:57] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:57] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:58] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:58] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:58] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:58] windows: foot -> foot
+[info]Time:[2026-07-15 21:16:59] find 2 windows from hwl
+[info]Time:[2026-07-15 21:16:59] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:00] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:00] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:00] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:00] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:01] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:01] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:01] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:01] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:02] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:02] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:03] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:03] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:03] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:03] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:04] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:04] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:05] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:05] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:05] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:05] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:06] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:06] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:07] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:07] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:07] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:07] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:08] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:08] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:09] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:09] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:09] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:09] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:10] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:10] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:11] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:11] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:11] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:11] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:12] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:12] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:12] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:13] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:13] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:13] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:14] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:14] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:14] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:14] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:15] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:15] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:16] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:16] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:16] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:16] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:17] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:17] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:18] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:18] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:18] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:18] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:19] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:19] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:20] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:20] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:20] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:20] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:21] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:21] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:22] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:22] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:22] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:22] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:23] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:23] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:24] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:24] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:24] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:24] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:25] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:25] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:26] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:26] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:26] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:26] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:27] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:27] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:27] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:27] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:28] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:28] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:29] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:29] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:29] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:29] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:30] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:30] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:31] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:31] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:31] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:31] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:32] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:32] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:33] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:33] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:33] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:33] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:34] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:34] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:35] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:35] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:35] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:35] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:36] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:36] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:37] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:37] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:37] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:37] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:38] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:38] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:39] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:39] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:39] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:39] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:40] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:40] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:40] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:40] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:41] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:41] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:42] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:42] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:42] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:42] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:43] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:43] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:44] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:44] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:44] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:44] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:45] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:45] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:46] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:46] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:46] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:46] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:47] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:47] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:48] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:48] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:48] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:48] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:49] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:49] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:50] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:50] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:50] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:50] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:51] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:51] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:52] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:52] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:52] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:52] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:53] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:53] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:53] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:53] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:54] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:54] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:55] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:55] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:55] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:55] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:56] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:56] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:57] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:57] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:57] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:57] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:58] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:58] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:59] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:59] windows: foot -> foot
+[info]Time:[2026-07-15 21:17:59] find 2 windows from hwl
+[info]Time:[2026-07-15 21:17:59] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:00] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:00] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:01] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:01] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:01] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:01] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:02] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:02] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:03] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:03] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:03] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:03] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:04] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:04] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:05] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:05] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:05] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:05] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:06] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:06] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:06] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:06] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:07] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:07] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:08] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:08] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:08] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:08] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:09] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:09] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:10] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:10] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:10] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:10] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:11] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:11] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:12] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:12] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:12] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:12] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:13] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:13] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:14] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:14] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:14] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:14] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:15] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:15] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:16] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:16] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:16] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:16] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:17] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:17] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:18] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:18] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:18] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:18] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:19] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:19] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:19] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:19] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:20] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:20] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:21] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:21] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:21] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:21] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:22] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:22] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:23] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:23] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:23] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:23] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:24] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:24] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:25] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:25] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:25] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:25] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:26] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:26] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:27] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:27] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:27] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:27] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:28] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:28] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:29] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:29] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:29] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:29] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:30] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:30] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:31] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:31] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:31] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:31] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:32] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:32] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:32] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:32] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:33] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:33] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:34] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:34] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:34] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:34] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:35] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:35] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:36] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:36] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:36] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:36] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:37] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:37] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:38] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:38] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:38] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:38] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:39] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:39] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:40] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:40] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:40] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:40] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:41] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:41] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:42] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:42] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:42] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:42] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:43] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:43] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:44] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:44] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:44] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:44] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:45] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:45] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:45] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:45] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:46] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:46] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:47] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:47] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:47] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:47] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:48] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:48] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:49] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:49] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:49] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:49] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:50] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:50] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:51] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:51] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:51] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:51] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:52] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:52] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:53] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:53] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:53] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:53] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:54] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:54] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:55] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:55] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:55] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:55] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:56] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:56] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:57] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:57] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:57] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:57] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:58] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:58] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:58] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:58] windows: foot -> foot
+[info]Time:[2026-07-15 21:18:59] find 2 windows from hwl
+[info]Time:[2026-07-15 21:18:59] windows: foot -> foot
+[info]Time:[2026-07-15 21:19:00] find 2 windows from hwl
+[info]Time:[2026-07-15 21:19:00] windows: foot -> foot
+[info]Time:[2026-07-15 21:19:00] find 2 windows from hwl
+[info]Time:[2026-07-15 21:19:00] windows: foot -> foot
+[info]Time:[2026-07-15 21:19:01] find 2 windows from hwl
+[info]Time:[2026-07-15 21:19:01] windows: foot -> foot
+[info]Time:[2026-07-15 21:19:02] find 2 windows from hwl
+[info]Time:[2026-07-15 21:19:02] windows: foot -> foot
+[info]Time:[2026-07-15 21:19:02] find 2 windows from hwl
+[info]Time:[2026-07-15 21:19:02] windows: foot -> foot
+[info]Time:[2026-07-15 21:19:03] find 2 windows from hwl
+[info]Time:[2026-07-15 21:19:03] windows: foot -> foot
+[info]Time:[2026-07-15 21:19:04] find 2 windows from hwl
+[info]Time:[2026-07-15 21:19:04] windows: foot -> foot
+[info]Time:[2026-07-15 21:19:04] find 2 windows from hwl
+[info]Time:[2026-07-15 21:19:04] windows: foot -> foot
+[info]Time:[2026-07-15 21:19:05] find 2 windows from hwl
+[info]Time:[2026-07-15 21:19:05] windows: foot -> foot
+[info]Time:[2026-07-15 21:19:06] find 2 windows from hwl
+[info]Time:[2026-07-15 21:19:06] windows: foot -> foot
+[info]Time:[2026-07-15 21:19:06] find 2 windows from hwl
+[info]Time:[2026-07-15 21:19:06] windows: foot -> foot
+[info]Time:[2026-07-15 21:19:07] find 2 windows from hwl
+[info]Time:[2026-07-15 21:19:07] windows: foot -> foot
+[info]Time:[2026-07-15 21:19:08] find 2 windows from hwl
+[info]Time:[2026-07-15 21:19:08] windows: foot -> foot
+[info]Time:[2026-07-15 21:19:08] find 2 windows from hwl
+[info]Time:[2026-07-15 21:19:08] windows: foot -> foot
+[info]Time:[2026-07-15 21:19:09] find 2 windows from hwl
+[info]Time:[2026-07-15 21:19:09] windows: foot -> foot
+[info]Time:[2026-07-15 21:19:10] find 2 windows from hwl
+[info]Time:[2026-07-15 21:19:10] windows: foot -> foot
+[info]Time:[2026-07-15 21:19:10] find 2 windows from hwl
+[info]Time:[2026-07-15 21:19:10] windows: foot -> foot
+[info]Time:[2026-07-15 21:19:11] find 2 windows from hwl
+[info]Time:[2026-07-15 21:19:11] windows: foot -> foot
+[info]Time:[2026-07-15 21:19:11] find 2 windows from hwl
+[info]Time:[2026-07-15 21:19:11] windows: foot -> foot
+[info]Time:[2026-07-15 21:19:12] find 2 windows from hwl
+[info]Time:[2026-07-15 21:19:12] windows: foot -> foot
+[info]Time:[2026-07-15 21:19:13] find 2 windows from hwl
+[info]Time:[2026-07-15 21:19:13] windows: foot -> foot
+[info]Time:[2026-07-15 21:19:13] find 2 windows from hwl
+[info]Time:[2026-07-15 21:19:13] windows: foot -> foot
+[info]Time:[2026-07-15 21:19:14] find 2 windows from hwl
+[info]Time:[2026-07-15 21:19:14] windows: foot -> foot
+[info]Time:[2026-07-15 21:19:15] find 2 windows from hwl
+[info]Time:[2026-07-15 21:19:15] windows: foot -> foot
+[info]Time:[2026-07-15 21:19:15] find 2 windows from hwl
+[info]Time:[2026-07-15 21:19:15] windows: foot -> foot
+[info]Time:[2026-07-15 21:19:16] find 2 windows from hwl
+[info]Time:[2026-07-15 21:19:16] windows: foot -> foot
+[info]Time:[2026-07-15 21:19:17] find 2 windows from hwl
+[info]Time:[2026-07-15 21:19:17] windows: foot -> foot
+[info]Time:[2026-07-15 21:19:17] find 2 windows from hwl
+[info]Time:[2026-07-15 21:19:17] windows: foot -> foot
+[info]Time:[2026-07-15 21:19:18] find 2 windows from hwl
+[info]Time:[2026-07-15 21:19:18] windows: foot -> foot
+[info]Time:[2026-07-15 21:19:19] find 2 windows from hwl
+[info]Time:[2026-07-15 21:19:19] windows: foot -> foot
+[info]Time:[2026-07-15 21:19:19] find 2 windows from hwl
+[info]Time:[2026-07-15 21:19:19] windows: foot -> foot
+[info]Time:[2026-07-15 21:19:20] find 2 windows from hwl
+[info]Time:[2026-07-15 21:19:20] windows: foot -> foot
+[info]Time:[2026-07-15 21:19:21] find 2 windows from hwl
+[info]Time:[2026-07-15 21:19:21] windows: foot -> foot
+[info]Time:[2026-07-15 21:19:21] find 2 windows from hwl
+[info]Time:[2026-07-15 21:19:21] windows: foot -> foot
+[info]Time:[2026-07-15 21:19:22] find 2 windows from hwl
+[info]Time:[2026-07-15 21:19:22] windows: foot -> foot
+[info]Time:[2026-07-15 21:19:23] find 2 windows from hwl
+[info]Time:[2026-07-15 21:19:23] windows: foot -> foot
+[info]Time:[2026-07-15 21:19:23] find 2 windows from hwl
+[info]Time:[2026-07-15 21:19:23] windows: foot -> foot
+[info]Time:[2026-07-15 21:19:24] find 2 windows from hwl
+[info]Time:[2026-07-15 21:19:24] windows: foot -> foot
+[info]Time:[2026-07-15 21:19:24] find 2 windows from hwl
+[info]Time:[2026-07-15 21:19:24] windows: foot -> foot
+[info]Time:[2026-07-15 21:19:25] find 2 windows from hwl
+[info]Time:[2026-07-15 21:19:25] windows: foot -> foot
+[info]Time:[2026-07-15 21:19:26] find 2 windows from hwl
+[info]Time:[2026-07-15 21:19:26] windows: foot -> foot
+[info]Time:[2026-07-15 21:19:26] cleaning...
+[info]Time:[2026-07-15 21:24:59] hde start
+[info]Time:[2026-07-15 21:24:59] toolbar size:PyQt6.QtCore.QSize(640, 80)
+[info]Time:[2026-07-15 21:24:59] postion: (240, 688)
+[info]Time:[2026-07-15 21:25:00] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:00] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:01] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:01] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:01] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:01] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:02] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:02] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:03] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:03] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:03] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:03] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:04] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:04] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:05] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:05] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:05] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:05] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:06] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:06] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:07] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:07] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:07] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:07] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:08] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:08] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:09] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:09] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:09] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:09] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:10] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:10] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:10] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:11] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:11] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:11] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:12] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:12] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:12] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:12] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:13] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:13] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:14] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:14] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:14] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:14] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:15] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:15] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:16] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:16] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:16] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:16] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:17] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:17] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:18] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:18] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:18] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:18] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:19] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:19] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:20] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:20] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:20] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:20] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:21] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:21] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:22] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:22] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:22] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:22] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:23] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:23] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:24] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:24] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:24] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:24] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:25] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:25] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:25] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:25] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:26] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:26] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:27] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:27] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:27] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:27] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:28] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:28] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:29] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:29] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:29] cleaning...
+[info]Time:[2026-07-15 21:25:38] hde start
+[info]Time:[2026-07-15 21:25:38] toolbar size:PyQt6.QtCore.QSize(640, 80)
+[info]Time:[2026-07-15 21:25:38] postion: (240, 688)
+[info]Time:[2026-07-15 21:25:39] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:39] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:39] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:39] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:40] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:40] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:40] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:40] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:41] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:41] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:42] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:42] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:42] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:42] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:43] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:43] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:44] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:44] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:44] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:44] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:45] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:45] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:46] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:46] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:46] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:46] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:47] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:47] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:48] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:48] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:48] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:48] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:49] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:49] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:50] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:50] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:50] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:50] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:51] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:51] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:52] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:52] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:52] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:52] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:53] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:53] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:54] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:54] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:54] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:54] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:55] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:55] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:55] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:55] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:56] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:56] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:57] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:57] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:57] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:57] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:58] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:58] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:59] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:59] windows: foot -> foot
+[info]Time:[2026-07-15 21:25:59] find 2 windows from hwl
+[info]Time:[2026-07-15 21:25:59] windows: foot -> foot
+[info]Time:[2026-07-15 21:26:00] find 2 windows from hwl
+[info]Time:[2026-07-15 21:26:00] windows: foot -> foot
+[info]Time:[2026-07-15 21:26:01] find 2 windows from hwl
+[info]Time:[2026-07-15 21:26:01] windows: foot -> foot
+[info]Time:[2026-07-15 21:26:01] find 2 windows from hwl
+[info]Time:[2026-07-15 21:26:01] windows: foot -> foot
+[info]Time:[2026-07-15 21:26:02] find 2 windows from hwl
+[info]Time:[2026-07-15 21:26:02] windows: foot -> foot
+[info]Time:[2026-07-15 21:26:03] find 2 windows from hwl
+[info]Time:[2026-07-15 21:26:03] windows: foot -> foot
+[info]Time:[2026-07-15 21:26:03] find 2 windows from hwl
+[info]Time:[2026-07-15 21:26:03] windows: foot -> foot
+[info]Time:[2026-07-15 21:26:04] find 2 windows from hwl
+[info]Time:[2026-07-15 21:26:04] windows: foot -> foot
+[info]Time:[2026-07-15 21:26:05] find 2 windows from hwl
+[info]Time:[2026-07-15 21:26:05] windows: foot -> foot
+[info]Time:[2026-07-15 21:26:05] find 2 windows from hwl
+[info]Time:[2026-07-15 21:26:05] windows: foot -> foot
+[info]Time:[2026-07-15 21:26:06] find 2 windows from hwl
+[info]Time:[2026-07-15 21:26:06] windows: foot -> foot
+[info]Time:[2026-07-15 21:26:07] find 2 windows from hwl
+[info]Time:[2026-07-15 21:26:07] windows: foot -> foot
+[info]Time:[2026-07-15 21:26:07] find 2 windows from hwl
+[info]Time:[2026-07-15 21:26:07] windows: foot -> foot
+[info]Time:[2026-07-15 21:26:08] find 2 windows from hwl
+[info]Time:[2026-07-15 21:26:08] windows: foot -> foot
+[info]Time:[2026-07-15 21:26:08] find 2 windows from hwl
+[info]Time:[2026-07-15 21:26:08] windows: foot -> foot
+[info]Time:[2026-07-15 21:26:09] find 2 windows from hwl
+[info]Time:[2026-07-15 21:26:09] windows: foot -> foot
+[info]Time:[2026-07-15 21:26:10] find 2 windows from hwl
+[info]Time:[2026-07-15 21:26:10] windows: foot -> foot
+[info]Time:[2026-07-15 21:26:10] find 2 windows from hwl
+[info]Time:[2026-07-15 21:26:10] windows: foot -> foot
+[info]Time:[2026-07-15 21:26:11] find 2 windows from hwl
+[info]Time:[2026-07-15 21:26:11] windows: foot -> foot
+[info]Time:[2026-07-15 21:26:12] find 2 windows from hwl
+[info]Time:[2026-07-15 21:26:12] windows: foot -> foot
+[info]Time:[2026-07-15 21:26:12] find 2 windows from hwl
+[info]Time:[2026-07-15 21:26:12] windows: foot -> foot
+[info]Time:[2026-07-15 21:26:13] find 2 windows from hwl
+[info]Time:[2026-07-15 21:26:13] windows: foot -> foot
+[info]Time:[2026-07-15 21:26:14] find 2 windows from hwl
+[info]Time:[2026-07-15 21:26:14] windows: foot -> foot
+[info]Time:[2026-07-15 21:26:14] find 2 windows from hwl
+[info]Time:[2026-07-15 21:26:14] windows: foot -> foot
+[info]Time:[2026-07-15 21:26:15] find 2 windows from hwl
+[info]Time:[2026-07-15 21:26:15] windows: foot -> foot
+[info]Time:[2026-07-15 21:26:16] find 2 windows from hwl
+[info]Time:[2026-07-15 21:26:16] windows: foot -> foot
+[info]Time:[2026-07-15 21:26:16] find 2 windows from hwl
+[info]Time:[2026-07-15 21:26:16] windows: foot -> foot
+[info]Time:[2026-07-15 21:26:17] find 2 windows from hwl
+[info]Time:[2026-07-15 21:26:17] windows: foot -> foot
+[info]Time:[2026-07-15 21:26:18] find 2 windows from hwl
+[info]Time:[2026-07-15 21:26:18] windows: foot -> foot
+[info]Time:[2026-07-15 21:26:18] find 2 windows from hwl
+[info]Time:[2026-07-15 21:26:18] windows: foot -> foot
+[info]Time:[2026-07-15 21:26:19] find 2 windows from hwl
+[info]Time:[2026-07-15 21:26:19] windows: foot -> foot
+[info]Time:[2026-07-15 21:26:20] find 2 windows from hwl
+[info]Time:[2026-07-15 21:26:20] windows: foot -> foot
+[error]Time:[2026-07-15 21:26:22] getwinlist function error: timed out
+[error]Time:[2026-07-15 21:26:24] getwinlist function error: timed out
+[error]Time:[2026-07-15 21:26:26] getwinlist function error: timed out
+[error]Time:[2026-07-15 21:26:28] getwinlist function error: timed out
+[error]Time:[2026-07-15 21:26:30] getwinlist function error: timed out
+[error]Time:[2026-07-15 21:26:32] getwinlist function error: timed out
+[error]Time:[2026-07-15 21:26:32] getwinlist function error: [Errno 11] 资源暂时不可用
+[info]Time:[2026-07-15 21:32:58] hde start
+[info]Time:[2026-07-15 21:32:58] toolbar size:PySide6.QtCore.QSize(640, 80)
+[info]Time:[2026-07-15 21:32:58] postion: (240, 720)
+[error]Time:[2026-07-15 21:32:58] getwinlist function error: [Errno 111] 连接被拒绝
+[error]Time:[2026-07-15 21:32:59] getwinlist function error: [Errno 111] 连接被拒绝
+[error]Time:[2026-07-15 21:33:00] getwinlist function error: [Errno 111] 连接被拒绝
+[error]Time:[2026-07-15 21:33:00] getwinlist function error: [Errno 111] 连接被拒绝
+[error]Time:[2026-07-15 21:33:01] getwinlist function error: [Errno 111] 连接被拒绝
+[error]Time:[2026-07-15 21:33:02] getwinlist function error: [Errno 111] 连接被拒绝
+[error]Time:[2026-07-15 21:33:02] getwinlist function error: [Errno 111] 连接被拒绝
+[error]Time:[2026-07-15 21:33:03] getwinlist function error: [Errno 111] 连接被拒绝
+[error]Time:[2026-07-15 21:33:04] getwinlist function error: [Errno 111] 连接被拒绝
+[error]Time:[2026-07-15 21:33:04] getwinlist function error: [Errno 111] 连接被拒绝
+[error]Time:[2026-07-15 21:33:05] getwinlist function error: [Errno 111] 连接被拒绝
+[error]Time:[2026-07-15 21:33:05] getwinlist function error: [Errno 111] 连接被拒绝
+[error]Time:[2026-07-15 21:33:06] getwinlist function error: [Errno 111] 连接被拒绝
+[info]Time:[2026-07-15 21:33:08] cleaning...
+[info]Time:[2026-07-15 21:54:01] hde start
+[info]Time:[2026-07-15 21:54:01] toolbar size:PySide6.QtCore.QSize(640, 80)
+[info]Time:[2026-07-15 21:54:01] postion: (240, 688)
+[info]Time:[2026-07-15 21:54:01] find 3 windows from hwl
+[info]Time:[2026-07-15 21:54:02] windows: foot -> foot
+[info]Time:[2026-07-15 21:54:02] find 3 windows from hwl
+[info]Time:[2026-07-15 21:54:02] windows: foot -> foot
+[info]Time:[2026-07-15 21:54:03] find 3 windows from hwl
+[info]Time:[2026-07-15 21:54:03] windows: foot -> foot
+[info]Time:[2026-07-15 21:54:03] find 3 windows from hwl
+[info]Time:[2026-07-15 21:54:03] find 3 windows from hwl
+[info]Time:[2026-07-15 21:54:03] windows: foot -> foot
+[info]Time:[2026-07-15 21:54:04] find 3 windows from hwl
+[info]Time:[2026-07-15 21:54:04] find 3 windows from hwl
+[info]Time:[2026-07-15 21:54:04] windows: foot -> foot
+[info]Time:[2026-07-15 21:54:04] find 3 windows from hwl
+[info]Time:[2026-07-15 21:54:04] find 3 windows from hwl
+[info]Time:[2026-07-15 21:54:05] find 3 windows from hwl
+[info]Time:[2026-07-15 21:54:05] find 3 windows from hwl
+[info]Time:[2026-07-15 21:54:05] windows: foot -> foot
+[info]Time:[2026-07-15 21:54:05] find 3 windows from hwl
+[info]Time:[2026-07-15 21:54:05] find 3 windows from hwl
+[info]Time:[2026-07-15 21:54:05] find 3 windows from hwl
+[info]Time:[2026-07-15 21:54:05] windows: foot -> foot
+[info]Time:[2026-07-15 21:54:06] focus 94409014995616, reply=ok
+[info]Time:[2026-07-15 21:54:06] find 3 windows from hwl
+[info]Time:[2026-07-15 21:54:06] windows: foot -> foot
+[info]Time:[2026-07-15 21:54:07] find 3 windows from hwl
+[info]Time:[2026-07-15 21:54:07] find 3 windows from hwl
+[info]Time:[2026-07-15 21:54:07] windows: foot -> foot
+[info]Time:[2026-07-15 21:54:07] find 3 windows from hwl
+[info]Time:[2026-07-15 21:54:07] windows: foot -> foot
+[info]Time:[2026-07-15 21:54:07] find 3 windows from hwl
+[info]Time:[2026-07-15 21:54:08] find 3 windows from hwl
+[info]Time:[2026-07-15 21:54:08] windows: foot -> foot
+[info]Time:[2026-07-15 21:54:09] find 3 windows from hwl
+[info]Time:[2026-07-15 21:54:09] windows: foot -> foot
+[info]Time:[2026-07-15 21:54:09] cleaning...
+[info]Time:[2026-07-15 21:54:09] cleaning...
+[info]Time:[2026-07-21 21:54:56] loadapps
