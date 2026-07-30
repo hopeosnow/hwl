@@ -1256,7 +1256,16 @@ static void xdg_toplevel_map(struct wl_listener *listener, void *data)
 	{
 		toplevel->is_desktop = true;
 		//置底
-		wlr_scene_node_lower_to_bottom(&toplevel->scene_tree->node);
+		if (server->background_tree)
+		{
+			wlr_scene_node_reparent(&toplevel->scene_tree->node,server->background_tree);
+			wlr_scene_node_raise_to_top(&toplevel->scene_tree->node);
+
+		}
+		else
+		{
+			wlr_scene_node_lower_to_bottom(&toplevel->scene_tree->node);
+		}
 		//鼠标穿透
 		/*struct wlr_region *empty_region = wlr_region_create();
 		if (empty_region)
@@ -1266,6 +1275,7 @@ static void xdg_toplevel_map(struct wl_listener *listener, void *data)
 		}
 		return;
 		*/
+		return;
 	}
 	/*search for hde dock*/
 	if (toplevel->xdg_toplevel->title != NULL && strcmp(toplevel->xdg_toplevel->title, "hde-dock") == 0)
@@ -1284,6 +1294,7 @@ static void xdg_toplevel_map(struct wl_listener *listener, void *data)
 			// 设置顶层
 			wlr_scene_node_raise_to_top(&toplevel->scene_tree->node);
 		}
+		return;
 	}
 	//其他设置窗口位置
 	else{
