@@ -64,6 +64,8 @@ struct hwl_server
 	struct wlr_scene *scene;
 	struct wlr_scene_output_layout *scene_layout;
 	struct wlr_xwayland *xwayland;
+
+
 	struct wl_listener xwayland_new_surface;
 	struct wl_list xwayland_surfaces;   // 用于存储 XWayland 窗口
 	struct wlr_xdg_shell *xdg_shell;
@@ -123,6 +125,9 @@ struct hwl_xwayland_surface {
     struct wl_listener request_maximize;
     struct wl_listener request_activate;
     bool destroyed;
+	struct wl_listener map;
+	struct wl_listener unmap;
+	bool scene_surface_created;  // 是否已创建 scene surface
 };
 struct hwl_output
 {
@@ -191,6 +196,8 @@ static void xwayland_surface_request_maximize(struct wl_listener *listener, void
 static void xwayland_surface_request_minimize(struct wl_listener *listener, void *data);
 static void xwayland_surface_request_configure(struct wl_listener *listener, void *data);
 static void focus_xwayland_surface(struct hwl_xwayland_surface *hwl_xsurface);
+static void xwayland_surface_map(struct wl_listener *listener, void *data);
+static void xwayland_surface_unmap(struct wl_listener *listener, void *data);
 
 // XDG toplevel 前置声明（handle_keybinding 中引用）
 static void xdg_toplevel_request_maximize(struct wl_listener *listener, void *data);
@@ -322,73 +329,16 @@ static void xwayland_ready(struct wl_listener *listener, void *data) {
 static void xwayland_surface_associate(struct wl_listener *listener, void *data) {
     struct hwl_xwayland_surface *surface = wl_container_of(listener, surface, associate);
     struct wlr_xwayland_surface *xsurface = surface->xwayland_surface;
-    struct hwl_server *server = surface->server;
-
-    // 防止重复关联
-    if (surface->mapped) {
-        return;
-    }
-
     if (!xsurface->surface) {
         wlr_log(WLR_ERROR, "XWayland associate but xsurface->surface is NULL");
         return;
     }
-
-    // 创建 scene surface — 唯一创建点
-    struct wlr_scene_surface *scene_surface =
-        wlr_scene_surface_create(surface->scene_tree, xsurface->surface);
-
-    if (!scene_surface) {
-        wlr_log(WLR_ERROR, "failed to create scene surface for XWayland: %s",
-                xsurface->title ? xsurface->title : "(null)");
-        return;
-    }
-
-    // 计算位置：使用 xsurface 的 x,y，但添加基于窗口数量的偏移防止重叠
-    int offset = 0;
-    int count = 0;
-    struct hwl_xwayland_surface *other;
-    wl_list_for_each(other, &server->xwayland_surfaces, link) {
-        if (other != surface && other->mapped) {
-            count++;
-        }
-    }
-    offset = count * 30;  // 每个已存在的 X11 窗口偏移 30px
-
-    surface->mapped = true;
-
-    // KDE 做法：保证最小尺寸，不要让 X11 客户端以 1x1 运行
-    // xterm 等客户端初始创建 1x1 窗口，然后发 ConfigureRequest 期望 WM 给合理尺寸
-    int cfg_w = xsurface->width > 100 ? xsurface->width : 600;
-    int cfg_h = xsurface->height > 100 ? xsurface->height : 400;
-    int cfg_x = xsurface->x + offset;
-    int cfg_y = xsurface->y + offset;
-
-    wlr_scene_node_set_position(&surface->scene_tree->node, cfg_x, cfg_y);
-    wlr_scene_node_set_enabled(&surface->scene_tree->node, true);
-
-    wlr_log(WLR_INFO, "XWayland surface associated+mapped: %s pos=(%d,%d) %dx%d (client had %dx%d) offset=%d",
-            xsurface->title ? xsurface->title : "(null)",
-            cfg_x, cfg_y, cfg_w, cfg_h,
-            xsurface->width, xsurface->height, offset);
-
-    // KDE 做法：先 configure（给客户端合理尺寸），然后 activate
-    wlr_xwayland_surface_configure(xsurface, cfg_x, cfg_y, cfg_w, cfg_h);
-
-    // 只做 X11 activate（安全），不做 wlr_seat_keyboard_notify_enter
-    // 后者从 associate 回调链内调用会造成 wlroots reentrancy → Broken pipe
-    // keyboard enter 会在用户首次点击窗口时通过 server_cursor_button 触发
-    wlr_xwayland_surface_activate(xsurface, true);
-    wlr_scene_node_raise_to_top(&surface->scene_tree->node);
-
-    wlr_log(WLR_INFO, "XWayland surface activated: %s (kb enter deferred to first click)",
-            xsurface->title ? xsurface->title : "(null)");
-
-    // 如果 title 已经设置（在 associate 之前 set_title 就触发了），立即通知 HDE
-    if (xsurface->title && xsurface->title[0] && !surface->title_notified) {
-        surface->title_notified = true;
-        notify_x11_window_opened(server, surface);
-    }
+    // 添加 map/unmap 监听（监听 wlr_surface 的 map/unmap）
+    surface->map.notify = xwayland_surface_map;
+    wl_signal_add(&xsurface->surface->events.map, &surface->map);
+    surface->unmap.notify = xwayland_surface_unmap;
+    wl_signal_add(&xsurface->surface->events.unmap, &surface->unmap);
+    wlr_log(WLR_INFO, "XWayland surface associated, map/unmap listeners added");
 }
 
 // dissociate: wl_surface 与 xsurface 解绑 — 清理映射状态
@@ -401,6 +351,9 @@ static void xwayland_surface_dissociate(struct wl_listener *listener, void *data
                 surface->xwayland_surface->title : "(null)";
     }
     wlr_log(WLR_INFO, "XWayland surface dissociated: %s mapped=%d", title, surface->mapped);
+    // 移除 map/unmap 监听（防止残留）
+    wl_list_remove(&surface->map.link);
+    wl_list_remove(&surface->unmap.link);
     if (surface->mapped) {
         surface->mapped = false;
         if (surface->scene_tree) {
@@ -408,7 +361,45 @@ static void xwayland_surface_dissociate(struct wl_listener *listener, void *data
         }
     }
 }
+//回调map
+static void xwayland_surface_map(struct wl_listener *listener, void *data) {
+    struct hwl_xwayland_surface *surface = wl_container_of(listener, surface, map);
+    struct wlr_xwayland_surface *xsurface = surface->xwayland_surface;
+    if (!xsurface || !xsurface->surface) {
+        wlr_log(WLR_ERROR, "XWayland map but no surface");
+        return;
+    }
+    // 如果尚未创建 scene surface，则创建
+    if (!surface->scene_surface_created) {
+        struct wlr_scene_surface *scene_surface =
+            wlr_scene_surface_create(surface->scene_tree, xsurface->surface);
+        if (!scene_surface) {
+            wlr_log(WLR_ERROR, "failed to create scene surface for XWayland map");
+            return;
+        }
+        surface->scene_surface_created = true;
+    }
+	wlr_scene_node_set_position(&surface->scene_tree->node, xsurface->x, xsurface->y);
+	int w = xsurface->width > 100 ? xsurface->width : 600;
+	int h = xsurface->height > 100 ? xsurface->height : 400;
+	wlr_xwayland_surface_configure(xsurface, xsurface->x, xsurface->y, w, h);
+    // 启用显示
+    wlr_scene_node_set_enabled(&surface->scene_tree->node, true);
+    surface->mapped = true;
+    wlr_log(WLR_INFO, "XWayland surface mapped: %s", xsurface->title ? xsurface->title : "(null)");
+    // 通知 HDE（如果标题已设置）
+    if (xsurface->title && !surface->title_notified) {
+        surface->title_notified = true;
+        notify_x11_window_opened(surface->server, surface);
+    }
+}
 
+static void xwayland_surface_unmap(struct wl_listener *listener, void *data) {
+    struct hwl_xwayland_surface *surface = wl_container_of(listener, surface, unmap);
+    wlr_scene_node_set_enabled(&surface->scene_tree->node, false);
+    surface->mapped = false;
+    wlr_log(WLR_INFO, "XWayland surface unmapped");
+}
 // destroy: 清理所有资源（带防重复保护）
 static void xwayland_surface_destroy(struct wl_listener *listener, void *data) {
     struct hwl_xwayland_surface *surface = wl_container_of(listener, surface, destroy);
@@ -428,7 +419,7 @@ static void xwayland_surface_destroy(struct wl_listener *listener, void *data) {
     surface->destroyed = true;
     surface->mapped = false;
 
-    // 清理所有信号监听器
+    // 清理所有信号监听器（包括 map/unmap）
     wl_list_remove(&surface->associate.link);
     wl_list_remove(&surface->dissociate.link);
     wl_list_remove(&surface->destroy.link);
@@ -440,6 +431,8 @@ static void xwayland_surface_destroy(struct wl_listener *listener, void *data) {
     wl_list_remove(&surface->request_configure.link);
     wl_list_remove(&surface->request_maximize.link);
     wl_list_remove(&surface->request_minimize.link);
+    wl_list_remove(&surface->map.link);
+    wl_list_remove(&surface->unmap.link);
     wl_list_remove(&surface->link);
 
     // 销毁场景树
@@ -500,15 +493,6 @@ static void focus_xwayland_surface(struct hwl_xwayland_surface *hwl_xsurface) {
         wlr_scene_node_set_enabled(&hwl_xsurface->scene_tree->node, true);
     }
 
-    // 5. 发送键盘焦点
-    struct wlr_keyboard *keyboard = wlr_seat_get_keyboard(server->seat);
-    if (keyboard) {
-        wlr_seat_keyboard_notify_enter(server->seat,
-            xsurface->surface,
-            keyboard->keycodes, keyboard->num_keycodes,
-            &keyboard->modifiers);
-    }
-
     wlr_log(WLR_INFO, "XWayland surface focused: %s",
             xsurface->title ? xsurface->title : "(null)");
 
@@ -553,7 +537,7 @@ static void xwayland_surface_request_activate(struct wl_listener *listener, void
     struct hwl_xwayland_surface *surface =
         wl_container_of(listener, surface, request_activate);
 
-    if (surface->destroyed) {
+    if (surface->destroyed || !surface->mapped) {
         return;
     }
 
@@ -588,28 +572,17 @@ static void xwayland_surface_request_resize(struct wl_listener *listener, void *
         xsurface->width, xsurface->height);
 }
 
-/* request_configure: X11 客户端发出 ConfigureRequest（KDE 做法——必须响应） */
 static void xwayland_surface_request_configure(struct wl_listener *listener, void *data) {
-    struct hwl_xwayland_surface *surface =
-        wl_container_of(listener, surface, request_configure);
-    struct wlr_xwayland_surface *xsurface = surface->xwayland_surface;
+	struct hwl_xwayland_surface *surface = wl_container_of(listener, surface, request_configure);
+	struct wlr_xwayland_surface *xsurface = surface->xwayland_surface;
+	if (surface->destroyed || !surface->mapped) return;
 
-    if (surface->destroyed || !surface->mapped) return;
-
-    // KDE 做法：X11 客户端通过 ConfigureRequest 告诉 WM 它想要的大小
-    // 合成器应该尊重客户端的请求，但保证最小可用尺寸
-    int w = xsurface->width > 100 ? xsurface->width : 600;
-    int h = xsurface->height > 100 ? xsurface->height : 400;
-
-    wlr_log(WLR_INFO, "XWayland request_configure: %s -> %dx%d+%d+%d",
-            xsurface->title ? xsurface->title : "(null)",
-            w, h, xsurface->x, xsurface->y);
-
-    // 重新配置窗口位置和大小
-    wlr_scene_node_set_position(&surface->scene_tree->node,
-        xsurface->x, xsurface->y);
-    wlr_xwayland_surface_configure(xsurface,
-        xsurface->x, xsurface->y, w, h);
+	int w = xsurface->width > 100 ? xsurface->width : 600;
+	int h = xsurface->height > 100 ? xsurface->height : 400;
+	// 可以选择是否移动位置，但通常客户端会给出 x,y
+	wlr_scene_node_set_position(&surface->scene_tree->node, xsurface->x, xsurface->y);
+	wlr_xwayland_surface_configure(xsurface, xsurface->x, xsurface->y, w, h);
+	wlr_log(WLR_INFO, "XWayland configured: %dx%d+%d+%d", w, h, xsurface->x, xsurface->y);
 }
 
 /* ========== XWayland 最大化 ========== */
@@ -1121,7 +1094,7 @@ static void server_cursor_button(struct wl_listener *listener, void *data)
                             break;
                         }
                     }
-                    if (hwl_xsurface) {
+                    if (hwl_xsurface->mapped && !hwl_xsurface->destroyed) {
                         focus_xwayland_surface(hwl_xsurface);
                         wlr_log(WLR_INFO, "XWayland window clicked and focused: %s",
                                 xsurface->title ? xsurface->title : "(null)");
