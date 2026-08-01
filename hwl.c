@@ -1224,7 +1224,22 @@ static void xdg_toplevel_map(struct wl_listener *listener, void *data)
 	// }
 
 	focus_toplevel(toplevel);
+	//search for high-dock
+	if (toplevel->xdg_toplevel->title != NULL && strcmp(toplevel->xdg_toplevel->title, "hde-highdock") == 0) {
+		struct  wlr_box output_box;
+		wlr_output_layout_get_box(server->output_layout,NULL,&output_box);
+
+		wlr_scene_node_raise_to_top(&toplevel->scene_tree->node);
+		return;
+	}
+	struct hwl_toplevel *iter;
+	wl_list_for_each(iter, &server->toplevels, link) {
+		if (iter != toplevel && iter->xdg_toplevel->title && strcmp(iter->xdg_toplevel->title, "hde-highdock") == 0) {
+			wlr_scene_node_raise_to_top(&iter->scene_tree->node);
+		}
+	}
 	//search for hde dsktop
+
 	if (toplevel->xdg_toplevel->title != NULL && strcmp(toplevel->xdg_toplevel->title,"hde-desktop")==0)
 	{
 		toplevel->is_desktop = true;
