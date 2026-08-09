@@ -1250,6 +1250,7 @@ static void xdg_toplevel_map(struct wl_listener *listener, void *data)
 	wl_list_for_each(iter, &server->toplevels, link) {
 		if (iter != toplevel && iter->xdg_toplevel->title && strcmp(iter->xdg_toplevel->title, "hde-highdock") == 0) {
 			wlr_scene_node_raise_to_top(&iter->scene_tree->node);
+
 		}
 	}
 	//search for hde desktop
