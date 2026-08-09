@@ -7,7 +7,9 @@
  Fuzhou 2026
 */
 //#define _GNU_SOURCE
-#define HDE_DOCK_HEIGHT 70  /* hde-dock 底部预留高度（80px dock - 10px 上移） */
+#define HDE_DOCK_HEIGHT 70
+#define HDE_HIGH_DOCK_HEIGHT 48
+/* hde-dock 底部预留高度（80px dock - 10px 上移） */
 #include <sys/socket.h>
 #include <sys/un.h>
 #include <sys/types.h>
@@ -931,9 +933,13 @@ static void reset_cursor_mode(struct hwl_server *server)
 static void process_cursor_move(struct hwl_server *server)
 {
 	struct hwl_toplevel *toplevel = server->grabbed_toplevel;
-	wlr_scene_node_set_position(&toplevel->scene_tree->node,
-								server->cursor->x - server->grab_x,
-								server->cursor->y - server->grab_y);
+	double new_x = server->cursor->x - server->grab_x;
+	double new_y = server->cursor->y - server->grab_y;
+	if (new_y < HDE_HIGH_DOCK_HEIGHT)
+	{
+		new_y = HDE_HIGH_DOCK_HEIGHT;
+	}
+	wlr_scene_node_set_position(&toplevel->scene_tree->node,new_x,new_y);
 }
 
 static void process_cursor_resize(struct hwl_server *server)
@@ -951,6 +957,14 @@ static void process_cursor_resize(struct hwl_server *server)
 		new_top = border_y;
 		if (new_top >= new_bottom)
 			new_top = new_bottom - 1;
+		if (new_top < HDE_HIGH_DOCK_HEIGHT)
+		{
+			new_top = HDE_HIGH_DOCK_HEIGHT;
+			if (new_bottom - new_top < 1)
+			{
+				new_bottom = new_top + 1;
+			}
+		}
 	}
 	else if (server->resize_edges & WLR_EDGE_BOTTOM)
 	{
@@ -1238,7 +1252,7 @@ static void xdg_toplevel_map(struct wl_listener *listener, void *data)
 			wlr_scene_node_raise_to_top(&iter->scene_tree->node);
 		}
 	}
-	//search for hde dsktop
+	//search for hde desktop
 
 	if (toplevel->xdg_toplevel->title != NULL && strcmp(toplevel->xdg_toplevel->title,"hde-desktop")==0)
 	{
@@ -1293,6 +1307,10 @@ static void xdg_toplevel_map(struct wl_listener *listener, void *data)
 		{
 			int x = (layout_box.width - geo.width) / 2;
 			int y = (layout_box.height - geo.height);
+			if (y<HDE_HIGH_DOCK_HEIGHT)
+			{
+				y = HDE_HIGH_DOCK_HEIGHT;
+			}
 			// 设置窗口位置
 			wlr_scene_node_set_position(&toplevel->scene_tree->node, x, y - 90);
 			// 设置顶层
@@ -1397,9 +1415,14 @@ static void xdg_toplevel_request_maximize(struct wl_listener *listener, void *da
 		struct wlr_box output_box;
 		wlr_output_layout_get_box(server->output_layout, NULL, &output_box);
 		// 最大化时底部预留 dock 空间
-		int max_h = output_box.height - HDE_DOCK_HEIGHT-22;
-		if (max_h < 200) max_h = output_box.height;  // 小屏幕保护
-		wlr_scene_node_set_position(&toplevel->scene_tree->node, 0, 0);
+		int start_y = HDE_HIGH_DOCK_HEIGHT;
+		int max_h = output_box.height + HDE_HIGH_DOCK_HEIGHT;
+		if (max_h < 200)
+		{
+			start_y = 0;
+			max_h = output_box.height;
+		}// 小屏幕保护
+		wlr_scene_node_set_position(&toplevel->scene_tree->node, 0, start_y);
 		wlr_xdg_toplevel_set_size(toplevel->xdg_toplevel,
 			output_box.width, max_h-5);
 		wlr_xdg_toplevel_set_maximized(toplevel->xdg_toplevel, true);
