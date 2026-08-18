@@ -138,6 +138,10 @@ struct hwl_xwayland_surface {
     struct wl_listener request_configure;
     struct wl_listener request_maximize;
     struct wl_listener request_activate;
+    struct wl_listener request_move;
+    struct wl_listener request_resize;
+    struct wl_listener request_minimize;
+
 };
 struct hwl_output
 {
@@ -225,6 +229,23 @@ static void notify_x11_window_opened(struct hwl_server *server, struct hwl_xwayl
  * 不再注册——需要时直接读 xsurface->title / xsurface->class。
  * request_move / request_resize 因无实际逻辑也不注册。
  */
+static void xwayland_surface_request_move(struct wl_listener *listener,void *data){
+    struct hwl_xwayland_surface *surface = wl_container_of(listener, surface, request_move);
+    if (surface->destroyed || !surface->mapped) return;
+    struct hwl_server *server = surface->server;
+
+
+}
+static void xwayland_surface_request_resize(struct wl_listener *listener, void *data)
+{
+    struct hwl_xwayland_surface *surface = wl_container_of(listener, surface, request_resize);
+    if (surface->destroyed || !surface->mapped) return;
+}
+static void xwayland_surface_request_minimize(struct wl_listener *listener, void *data)
+{
+    struct hwl_xwayland_surface *surface = wl_container_of(listener, surface, request_minimize);
+    xwayland_surface_set_minimized(surface, true);
+}
 static void xwayland_new_surface(struct wl_listener *listener, void *data) {
     struct hwl_server *server = wl_container_of(listener, server, xwayland_new_surface);
     struct wlr_xwayland_surface *xsurface = data;
@@ -273,6 +294,15 @@ static void xwayland_new_surface(struct wl_listener *listener, void *data) {
 
     wl_list_insert(&server->xwayland_surfaces, &surface->link);
     wlr_log(WLR_INFO, "XWayland surface registered: %p", (void *)surface);
+    //注册xwayland信号连接器
+    surface->request_move.notify = xwayland_surface_request_move;
+    wl_signal_add(&xsurface->events.request_move,&surface->request_move);
+
+    surface->request_resize.notify = xwayland_surface_request_resize;
+    wl_signal_add(&xsurface->events.request_resize,&surface->request_resize);
+
+    surface->request_minimize.notify = xwayland_surface_request_minimize;
+    wl_signal_add(&xsurface->events.request_minimize,&surface->request_minimize);
 }
 
 /*
@@ -424,6 +454,9 @@ static void xwayland_surface_destroy(struct wl_listener *listener, void *data) {
     wl_list_remove(&surface->request_activate.link);
     //wl_list_remove(&surface->map.link);
     //wl_list_remove(&surface->unmap.link);
+    wl_list_remove(&surface->request_move.link);
+    wl_list_remove(&surface->request_resize.link);
+    wl_list_remove(&surface->request_minimize.link);
     wl_list_remove(&surface->link);
 
     if (surface->scene_tree) {
@@ -474,7 +507,13 @@ static void focus_xwayland_surface(struct hwl_xwayland_surface *hwl_xsurface) {
     }
 
     wlr_xwayland_surface_activate(xsurface, true);
+    //keyboard for xwl
+    struct wlr_keyboard *keyboard = wlr_seat_get_keyboard(server->seat);
+    if (keyboard)
+    {
+        wlr_seat_keyboard_notify_enter(server->seat,xsurface->surface,keyboard->keycodes,keyboard->num_keycodes,&keyboard->modifiers);
 
+    }
     if (hwl_xsurface->mapped && hwl_xsurface->scene_tree) {
         wlr_scene_node_raise_to_top(&hwl_xsurface->scene_tree->node);
         wlr_scene_node_set_enabled(&hwl_xsurface->scene_tree->node, true);
@@ -1916,7 +1955,28 @@ static void *ipc_thread_func(void *arg)
                                 //
                         }
                         else{
+                            //xwayland
+                            struct hwl_xwayland_surface *hwl_xsurface = NULL;
+                            wl_list_for_each(hwl_xsurface,&server->xwayland_surfaces, link)
+                            {
+                                if (hwl_xsurface->destroyed) continue;
+                                uintptr_t id = (uintptr_t)&hwl_xsurface->scene_tree->node;
+                                if (id == target_id)
+                                {
+                                    found = 1;
+                                    break;
+                                }
+                            }
+                            if (found && hwl_xsurface)
+                            {
+                                wlr_xwayland_surface_close(hwl_xsurface->xwayland_surface);
+                                reply = strdup("closed");
+                            }
+                            else
+                            {
                                 reply = strdup("not found");
+                            }
+
                         }
                 }
                 else{
