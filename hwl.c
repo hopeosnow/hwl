@@ -419,15 +419,31 @@ static void xwayland_surface_map(struct wl_listener *listener, void *data) {
         return;
     }
 
-    wlr_scene_node_set_position(&surface->scene_tree->node, xsurface->x, xsurface->y);
-    int w = xsurface->width > 100 ? xsurface->width : 600;
-    int h = xsurface->height > 100 ? xsurface->height : 400;
-    wlr_xwayland_surface_configure(xsurface, xsurface->x, xsurface->y, w, h);
+    struct hwl_server *server = surface->server;
+    int w = xsurface->width >100 ? xsurface->width :600;
+    int h = xsurface->height >100 ? xsurface->height :400;
+    if (!xsurface->override_redirect)
+    {
+        struct wlr_box layout_box;
+        wlr_output_layout_get_box(server->output_layout, NULL,&layout_box);
+        int x = (layout_box.width - w)/2;
+        int y = (layout_box.height - h)/2;
+        if (y<HDE_HIGH_DOCK_HEIGHT)
+        {
+            y = HDE_HIGH_DOCK_HEIGHT;
+        }
+        wlr_scene_node_set_position(&surface->scene_tree->node, x, y);
+        wlr_xwayland_surface_configure(xsurface,x,y,w,h);
+        wlr_log(WLR_INFO,"xwayland surface configured");
+    }
+    else
+    {
+        wlr_scene_node_set_position(&surface->scene_tree->node, xsurface->x,xsurface->y);
+        wlr_xwayland_surface_configure(xsurface,xsurface->x,xsurface->y,w,h);
 
+    }
     wlr_scene_node_set_enabled(&surface->scene_tree->node, true);
     surface->mapped = true;
-    wlr_log(WLR_INFO, "XWayland surface mapped: %s", xsurface->title ? xsurface->title : "(null)");
-
     /* override-redirect 窗口（弹出菜单、通知等）只显示，不管理 */
     if (xsurface->override_redirect) {
         return;
