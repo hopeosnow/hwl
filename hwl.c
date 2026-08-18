@@ -104,7 +104,10 @@ struct hwl_server
         struct wl_listener xwayland_ready;
         char *startup_cmd;     // 启动命令（XWayland ready 后才执行）
         bool startup_spawned;  // 防止重复 spawn
-
+        //xwayland grab
+        struct hwl_toplevel *grabbed_xtoplevel;
+        struct hwl_xwayland_surface *grabbed_xsurface;
+        double xgrab_x, xgrab_y;
         struct wlr_scene_tree *background_tree;
     struct wlr_buffer *wallpaper_buffer;
 };
@@ -229,10 +232,21 @@ static void notify_x11_window_opened(struct hwl_server *server, struct hwl_xwayl
  * 不再注册——需要时直接读 xsurface->title / xsurface->class。
  * request_move / request_resize 因无实际逻辑也不注册。
  */
+static void reset_cursor_mode(struct hwl_server *server)
+{
+        server->cursor_mode = HWL_CURSOR_PASSTHROUGH;
+        server->grabbed_toplevel = NULL;
+        server->grabbed_xsurface = NULL;
+}
 static void xwayland_surface_request_move(struct wl_listener *listener,void *data){
     struct hwl_xwayland_surface *surface = wl_container_of(listener, surface, request_move);
     if (surface->destroyed || !surface->mapped) return;
     struct hwl_server *server = surface->server;
+        reset_cursor_mode(server);
+        server->cursor_mode = HWL_CURSOR_MOVE;
+        server->grabbed_xsurface = surface;
+        server->xgrab_x = server->cursor->x - surface->scene_tree->node.x;
+        server->xgrab_y = server->cursor->y - surface->scene_tree->node.y;
 
 
 }
@@ -547,8 +561,16 @@ static void xwayland_surface_set_maximized(struct hwl_xwayland_surface *surface,
         surface->saved_geo.width = xsurface->width;
         surface->saved_geo.height = xsurface->height;
         surface->maximized = true;
-        wlr_scene_node_set_position(&surface->scene_tree->node, 0, 0);
-        wlr_xwayland_surface_configure(xsurface, 0, 0,
+        int start_y = HDE_HIGH_DOCK_HEIGHT;
+        int max_h = output_box.height - HDE_HIGH_DOCK_HEIGHT;
+        if (max_h <200)
+        {
+            start_y = 0;
+            max_h = output_box.height;
+        }
+        wlr_scene_node_set_position(&surface->scene_tree->node, 0, start_y);
+
+        wlr_xwayland_surface_configure(xsurface, 0, start_y,
             output_box.width, max_h);
         wlr_log(WLR_INFO, "XWayland maximized: %s -> %dx%d",
                 xsurface->title ? xsurface->title : "(null)",
@@ -887,11 +909,7 @@ static void seat_request_set_selection(struct wl_listener *listener, void *data)
         wlr_seat_set_selection(server->seat, event->source, event->serial);
 }
 
-static void reset_cursor_mode(struct hwl_server *server)
-{
-        server->cursor_mode = HWL_CURSOR_PASSTHROUGH;
-        server->grabbed_toplevel = NULL;
-}
+
 
 static void process_cursor_move(struct hwl_server *server)
 {
@@ -962,13 +980,21 @@ static void process_cursor_motion(struct hwl_server *server, uint32_t time)
     // 处理交互式移动/调整大小（仅适用于 XDG toplevel）
     if (server->cursor_mode == HWL_CURSOR_MOVE)
     {
-        process_cursor_move(server);
-        return;
-    }
-    else if (server->cursor_mode == HWL_CURSOR_RESIZE)
-    {
-        process_cursor_resize(server);
-        return;
+            if (server->grabbed_toplevel)
+            {
+                    process_cursor_move(server);
+            }
+
+            else if (server->grabbed_xsurface)
+            {
+            struct hwl_xwayland_surface *surface = server->grabbed_xsurface;
+            double new_x = server->cursor->x - server->xgrab_x;
+            double new_y = server->cursor->y - server->xgrab_y;
+            if (new_y<HDE_HIGH_DOCK_HEIGHT) new_y = HDE_HIGH_DOCK_HEIGHT;
+            wlr_scene_node_set_position(&surface->scene_tree->node,new_x,new_y);
+            wlr_xwayland_surface_configure(surface->xwayland_surface,new_x,new_y,surface->xwayland_surface->width,surface->xwayland_surface->height);
+            }
+            return;
     }
 
     double sx, sy;
