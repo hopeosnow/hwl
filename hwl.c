@@ -109,7 +109,8 @@ struct hwl_server
         struct hwl_xwayland_surface *grabbed_xsurface;
         double xgrab_x, xgrab_y;
         struct wlr_scene_tree *background_tree;
-    struct wlr_buffer *wallpaper_buffer;
+        struct  wlr_scene_tree *dock;
+        struct wlr_buffer *wallpaper_buffer;
 };
 /*
  * hwl_xwayland_surface — XWayland 窗口包装器（精简版）
@@ -765,6 +766,15 @@ static bool handle_keybinding(struct hwl_server *server, xkb_keysym_t sym)
                 }
                 break;
         }
+
+        case XKB_KEY_Super_L:
+        case XKB_KEY_Super_R:
+            if (server->dock)
+            {
+                wlr_scene_node_raise_to_top(&server->dock->node);
+
+            }
+            return true;
         case XKB_KEY_Down:
         case XKB_KEY_KP_Down:
         {
@@ -815,7 +825,24 @@ static void keyboard_handle_key(struct wl_listener *listener, void *data)
         const xkb_keysym_t *syms;
         int nsyms = xkb_state_key_get_syms(
                 keyboard->wlr_keyboard->xkb_state, keycode, &syms);
+        //super
+        if (event->state == WL_KEYBOARD_KEY_STATE_PRESSED)
+        {
+            bool super_pressed = false;
+            for (int i = 0; i < nsyms; i++)
+            {
+                if (syms[i] == XKB_KEY_Super_L || syms[i] == XKB_KEY_Super_R)
+                {
+                    super_pressed = true;
+                    break;
+                }
+            }
+            if (super_pressed && server->dock)
+            {
+                wlr_scene_node_raise_to_top(&server->dock->node);
 
+            }
+        }
         bool handled = false;
         uint32_t modifiers = wlr_keyboard_get_modifiers(keyboard->wlr_keyboard);
         if ((modifiers & WLR_MODIFIER_ALT) &&
@@ -1243,6 +1270,22 @@ static void xdg_toplevel_map(struct wl_listener *listener, void *data)
         // }
 
         focus_toplevel(toplevel);
+        //search for hde-launcher
+         if (toplevel->xdg_toplevel->title != NULL && strcmp(toplevel->xdg_toplevel->title,"hde-launch")==0)
+         {
+             struct wlr_box obox;
+             wlr_output_layout_get_box(server->output_layout, NULL, &obox);
+             struct wlr_box geom = toplevel->xdg_toplevel->base->current.geometry;
+             // 设置窗口位置
+             wlr_scene_node_set_position(&toplevel->scene_tree->node,0,0);
+             // 设置顶层
+             wlr_scene_node_raise_to_top(&toplevel->scene_tree->node);
+             wlr_xdg_toplevel_set_size(toplevel->xdg_toplevel,obox.width,obox.height);
+             wlr_xdg_toplevel_set_fullscreen(toplevel->xdg_toplevel,true);
+
+             return;
+
+         }
         //search for high-dock
         if (toplevel->xdg_toplevel->title != NULL && strcmp(toplevel->xdg_toplevel->title, "hde-highdock") == 0) {
                 struct  wlr_box output_box;
@@ -1287,6 +1330,8 @@ static void xdg_toplevel_map(struct wl_listener *listener, void *data)
         /*search for hde dock*/
         if (toplevel->xdg_toplevel->title != NULL && strcmp(toplevel->xdg_toplevel->title, "hde-dock") == 0)
         {
+                //save tree
+                server->dock = toplevel->scene_tree;
                 struct wlr_box layout_box;
 
                 wlr_output_layout_get_box(server->output_layout, NULL, &layout_box);
@@ -1357,7 +1402,9 @@ static void hwl_toplevel_destroy(struct wl_listener *listener, void *data)
         wl_list_remove(&toplevel->request_maximize.link);
         wl_list_remove(&toplevel->request_fullscreen.link);
         wl_list_remove(&toplevel->request_minimize.link);
+
         free(toplevel);
+
 }
 
 
